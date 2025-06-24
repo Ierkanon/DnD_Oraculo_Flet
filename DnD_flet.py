@@ -39,6 +39,23 @@ def main (page: ft.Page):
             txt_bonus.value = str(int(txt_bonus.value) + 1)
         page.update()
 
+    #Radiogroup selecction, when is active d20 Aventage and disavantage es active
+    def radiogroup_selection(e,dice):
+        dado = int(dice)
+        if dado == 20:
+            print(f'valor: {dado}')
+            radioavendisaven.disabled=False
+            if int(radioavendisaven.value) == 0:
+                txt_dicenumber.disabled=False
+            else:
+                txt_dicenumber.disabled=True
+        else:
+            print(f'valor else:{dado}')
+            radioavendisaven.disabled=True
+            txt_dicenumber.disabled=False
+        page.update()
+
+
     #Update textfield and autoscroll function
     def add_text(data):
         contenido.append(data)
@@ -67,9 +84,22 @@ def main (page: ft.Page):
         bonus = int(txt_bonus.value)
         global total
         total=[]
-        for i in range(ndados):
-            j = random.randint(1, dado)
-            total.append(j)
+        if dado == 20 and int(radioavendisaven.value) != 0 and ndados == 1:
+            for i in range(2):
+                j = random.randint(1,dado)
+                total.append(j)
+            if int(radioavendisaven.value) == 1:
+                salida = f'Tirada con Ventaja: {total}'
+                total.remove(min(total))
+                add_text(salida)
+            if int(radioavendisaven.value) == -1:
+                salida = f'Tirada con Desventaja: {total}'
+                total.remove(max(total))
+                add_text(salida)
+        else:
+            for i in range(ndados):
+                j = random.randint(1, dado)
+                total.append(j)
         salida = f'Tirada ({ndados}d{dado}): {total}'
         add_text(salida)
         #txt_salida.value = txt_salida.value + salida
@@ -190,7 +220,6 @@ def main (page: ft.Page):
         chbox_suma.value=False
         chbox_media.value=False
         chbox_total.value=True
-
         page.update()
 
     def generador_ponderado(e, dictio):
@@ -228,11 +257,12 @@ def main (page: ft.Page):
             ft.Radio(value=8, label='1d8', active_color=ft.colors.YELLOW,),
             ft.Radio(value=10, label='1d10', active_color=ft.colors.GREEN),
             ft.Radio(value=12, label='1d12', active_color=ft.colors.PURPLE),
-            ft.Radio(value=20, label='1d20', active_color=ft.colors.INDIGO),
+            ft.Radio(value=20, label='1d20', active_color=ft.colors.INDIGO, ),
             ft.Radio(value=100, label='1d100', active_color=ft.colors.BLUE)
             ]
             ),
-        value=4
+        value=4,
+        on_change = lambda e: radiogroup_selection(e,radiodados.value),
         )
 
     #Spinbox for the dice number
@@ -289,8 +319,24 @@ def main (page: ft.Page):
     #Oracle button which predicts the actions
     boton_oraculo = ft.FilledButton(text='Oráculo', on_click = oraculo)
 
+    #Aventage or disaventage checkboxes, only are active when d20 is selected
+    #chbox_aven = ft.Checkbox(label="Ventaja", value=False, disabled= True)
+    #chbox_disaven = ft.Checkbox (label = "Desventaja", value = False, disabled= True)
+    radioavendisaven= ft.RadioGroup(
+        content=ft.Row(
+            [
+            ft.Radio(value=1, label='Ventaja', active_color=ft.colors.GREEN),
+            ft.Radio(value=-1, label='Desventaja', active_color=ft.colors.RED),
+            ft.Radio(value=0, label='Normal', )
+            ]
+            ),
+        value=0,
+        disabled = True,
+        on_change = lambda e: radiogroup_selection(e,20),
+        )
+
     page.add(
-        boton_oraculo
+        ft.Row([boton_oraculo, radioavendisaven])
         )
 
     boton_airelibre = ft.FilledButton(text='Encuentro al aire libre',
@@ -344,9 +390,11 @@ def main (page: ft.Page):
         auto_scroll = True,
         expand = True
         )
+    contenedor1= ft.Container(content=column)
+    contenedor2= ft.Container(content=ft.Row([txt_entrada,ft.Column([boton_enviar, bonton_escena])]))
     page.add( 
-        ft.Row([txt_entrada,ft.Column([boton_enviar, bonton_escena])]),
-        column
+        column,
+        ft.Row([txt_entrada,ft.Column([boton_enviar, bonton_escena])])
         )
 
     text = f"¡Bienvenido al Oráculo de D&D!\n"

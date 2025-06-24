@@ -1,0 +1,885 @@
+# Introducción y Fundamentos
+
+**D**esde la creación del multiverso, el poder del destino fue custodiado por los maestros ancestrales y solo ellos tenían permitido usarlo para crear orden o caos y tejer el hilo de la realidad. El día del nacimiento, el maestro anciano generosamente resolvió compartir una pequeña parte de ese poder para que otros también pudieran experimentar la fascinación de manipularlo. Lo que ni siquiera él podía imaginar es que al tratar de dividirlo, eventualmente transfirió todo ese poder a un simple juego de dados. Por mucho tiempo esto ha permanecido oculto para muchos, hasta ahora.
+
+El contenido que estás a punto de leer fue creado a partir de la experiencia de un jugador de D&D que decidió jugar solo, sin un Dungeon Master, y estuvo probando y refinando su método hasta que, en algún momento, decidió escribir sobre ello, lo que llamó D&D en Solitario.
+
+## ¿Qué es D&D en Solitario?
+
+En una respuesta corta, D&D en Solitario es un método para jugar D&D sin la presencia de un dungeon master. Consiste en un método creativo de improvisación y está diseñado para que el jugador de D&D pueda jugar solo sin la necesidad de un maestro que prepare los detalles y conduzca toda la aventura y también sin la necesidad del tiempo para preparar una campaña. Con este método cualquier jugador (o grupo de jugadores) podrá conducir su propia aventura incluso si nunca ha sido maestro antes. Sí, esto es posible.
+
+## ¿Qué necesito para jugar D&D en Solitario?
+
+Primero necesitas conocer las reglas de la 5ª edición de D&D. Usarás el Manual del Jugador (PHB) para reglas generales y creación de personajes, el Manual de Monstruos (MM) para bloques de estadísticas de criaturas y PNJs y la Guía del Dungeon Master (DMG) para tablas de objetos mágicos, tesoros y encuentros aleatorios o si quieres consultar algunas reglas más específicas.
+
+Haremos algunas referencias a estos libros, siempre usando las abreviaciones mencionadas entre paréntesis y el número de página. Además de los tres libros básicos, ¡cualquier suplemento también es muy bienvenido! Después de todo, este no es otro sistema de RPG, sino solo una forma de emular las decisiones del maestro. De hecho, eres tú quien será el dungeon master, serás algo que suelo llamar el maestrojugador; Las mecánicas que aprenderás en esta guía son solo herramientas para crear un poco de aleatoriedad en la narrativa y potenciar tu imaginación para que las historias no tengan un curso obvio y predecible.
+
+No te preocupes por el número de páginas de esta guía, ya que después de leer al menos la primera parte podrás conducir una aventura completa solo usando las tablas del apéndice, donde todo estará resumido para ti.
+
+Si ya eres un jugador de RPG en solitario que conoce Mythic GME u otros sistemas de emulación de maestro, probablemente te resultará más fácil entender cómo funciona todo esto, pero si no, no te preocupes, tan pronto como empieces a jugar lo entenderás pronto y gradualmente todo se vuelve natural y más dinámico.
+
+En cuanto a los materiales, serían los mismos que los necesarios para jugar D&D: lápices, borradores, papel, dados y un cuaderno para consultar tablas y libros.
+
+## Aprender haciendo
+
+El propósito de esta guía no es discutir por qué deberías jugar en solitario o no. Imagino que si llegaste aquí, simplemente quieres jugar. Así que tratemos de ser directos y claros. Y para hacer todo más práctico y fácil de entender usemos un ejemplo grande y extenso. A medida que se introduzcan nuevas mecánicas, volveremos al mismo ejemplo inicial, continuando. Así tendrás un paso a paso para jugar una aventura en solitario e incluso puedes jugar junto con el ejemplo presentado.
+
+## Vamos por partes para ver el todo
+
+Así como un maestro organiza las acciones de los personajes en turnos para que todos tengan su turno en combate, o cuando le cuenta la historia a uno de los jugadores mientras los otros esperan su turno, así haremos algo similar aquí. Para hacer tu vida más fácil dividamos tu historia en Escenas.
+
+Imagina tu aventura como una película que se subdivide en escenas. Y al igual que en una película, una escena les sucede a ciertos personajes, en cierto escenario y por cierto tiempo. Cada escena es entonces una pequeña división temporal de tu aventura y puede ser de cualquier duración, desde minutos hasta muchos años. Durante este tiempo los personajes hacen sus acciones y cuando las terminan, la escena termina y comienza una nueva escena. Una escena es, por tanto, donde "las cosas suceden", es donde vemos a los personajes tratando directamente de superar el desafío ante ellos. Tu aventura es un conjunto de escenas donde suceden cosas importantes y cada una de ellas es responsable de mover tu historia.
+
+**Parte 1 | Introducción y Fundamentos**  
+*2*
+
+Como dije, una escena puede ser de cualquier duración, corta o más larga. Veamos dos ejemplos: los héroes entran a un corredor de mazmorra, verifican trampas, cruzan el corredor y entran por una puerta. Esa es una escena corta; algo rápido y usual, simple, pero tiene un propósito: mostrar cómo los héroes atravesaron ese corredor. En contraste podemos imaginar para el segundo ejemplo un combate contra un dragón rojo, una escena más larga muy detallada y subdividida en turnos, pero también tiene un propósito: mostrar cómo los PCs lidian con esta amenaza mortal. Vale la pena mencionar aquí que cada combate es una escena que puede terminar con los personajes ganando, muriendo o huyendo, por ejemplo.
+
+Las escenas pueden ser secuenciales, pero no tienen que serlo, porque entre escenas puedes determinar que han pasado minutos, días, o incluso años. Estas transiciones en tiempo y espacio usualmente suceden fuera de la escena, no dentro de ella. Puedes hacer el salto que quieras entre dos escenas, de la taberna al día siguiente en un castillo y luego después de una semana en la entrada de una mazmorra.
+
+La división de las escenas no está atada al escenario donde suceden, sino a la acción principal de los personajes involucrados, así que una escena no siempre tiene que suceder en un lugar diferente de la anterior. Ve estas cuatro escenas, todas sucediendo en el mismo lugar, pero en cada una hay una acción principal diferente:
+
+1. Los PCs caminan por el bosque evitando un encuentro con animales salvajes.
+2. Reúnen recursos mientras instalan un campamento.
+3. Hacen guardias nocturnas.
+4. Al día siguiente se preparan para partir.
+
+Nuevamente, lo importante es que hay un propósito para los personajes en cada escena.
+
+Eres el maestrojugador y depende de ti decidir si prefieres desarrollar un solo objetivo en una escena o comprimir múltiples en una escena. Si, por ejemplo, decidiste que sería más interesante resumir las cuatro escenas anteriores, podrías hacer una sola escena: los personajes pasan un día atravesando el bosque y evitando los peligros.
+
+No tienes que desarrollar en detalle una transición del punto A al punto B si piensas que sería sin eventos o aburrida. Por ejemplo, si decidiste que en las cuatro escenas anteriores no pasaría nada importante, o que no habría desafío para los personajes en el bosque, podrías simplemente saltarte esa parte de la historia y moverte directamente a cuando los personajes lleguen a su destino (después del bosque).
+
+Antes de comenzar una escena siempre entiende el contexto a su alrededor. Qué ha pasado y hacia dónde sería probable que fuera desde ahí. Cada escena necesita tener principio, medio y fin. Para hacerlo más fácil puedes usar la siguiente estructura básica para tus escenas: Comenzamos con un gancho mostrando el objetivo de los personajes involucrados, luego desarrollamos el conflicto alrededor de ese objetivo y terminamos la escena con un desastre. Fácil, expliquemos.
+
+Todo comienza con el objetivo, lo que el personaje quiere en este momento. Cada personaje quiere un objetivo en una escena, de lo contrario su presencia allí se vuelve indiferente y sin razón. Si el personaje no quiere nada, no pasa nada y la historia se vuelve aburrida. El objetivo no debe ser algo distante, sino algo presente, algo que necesita ser resuelto ahora. Establece el objetivo del personaje lo más temprano posible en la escena. ¿Qué está tratando de hacer? ¿Cómo pretende hacerlo? ¿Por qué quiere hacer esto? ¿Y qué pasa si falla?
+
+El conflicto no es más que un obstáculo entre el personaje y su objetivo, porque si el personaje puede simplemente obtener todo lo que quiere sin ningún desafío, ¿dónde estaría la diversión?
+
+Es el conflicto lo que llenará la mayoría de tus escenas y les impedirá terminar demasiado rápido. El conflicto es responsable de crear la tensión que nos mantiene interesados en descubrir qué pasará después.
+
+Los conflictos pueden tomar muchas formas y no necesariamente tienen que ser un combate o una confrontación directa. Algunos ejemplos simples: una pelea; un derrumbe en una mina; una discusión con un PNJ; una pista encontrada en la escena del crimen; una trampa. Lo que importa es que amenace las posibilidades de los personajes jugadores de lograr el objetivo de la escena.
+
+Finalmente, este conflicto particular necesita ser resuelto de manera decisiva: ¿los personajes obtienen lo que querían o no? Las consecuencias de esta escena alimentarán la siguiente, así que es interesante que aumente el drama en lugar de simplemente darles todo a los héroes.
+
+A pesar de este nombre, un desastre no significa algo terrible y no significa que los PCs hayan fallado en lograr el objetivo en esa escena, sino que es solo una consecuencia negativa que generará nuevos desafíos en las siguientes escenas. Después de todo, si una escena termina con los PCs victoriosos y no hay nada más que hacer, la aventura ha terminado y serán "felices para siempre".
+
+**Parte 1 | Introducción y Fundamentos**  
+*3*
+
+Incluso cuando los PCs logran el objetivo de una escena, puede haber consecuencias no intencionadas o complicaciones. Este es un giro interesante en la trama que se puede usar en lugar de simplemente fallar. Pero recuerda que el desastre debe ser algo que venga naturalmente de la historia y no como un meteorito cayendo sobre la taberna... Tiene que estar vinculado al conflicto. Quizás el objeto mágico obtenido contenga una maldición; eliminar una tribu de goblins puede fortalecer otros clanes vecinos; el cofre encontrado puede estar vacío; los rehenes son rescatados, pero el villano logra escapar; o el problema resuelto es solo la punta del iceberg...
+
+## Paso 1: Elegir el tema y el gancho inicial
+
+En nuestro ejemplo, primero que todo necesitamos elegir un tema para nuestra aventura y un gancho inicial. Usemos en este ejemplo un tema clásico de fantasía medieval. (Eres libre de elegir el tema que quieras). El gancho inicial también es muy importante porque es lo que te emocionará para jugar esta aventura. No tiene que ser gran cosa, pero tiene que ser algo que llame tu atención y te haga querer jugar. En este ejemplo usaremos el siguiente gancho: Cuatro aventureros tienen la misión de derrotar a un mago muy cruel que está aterrorizando el área circundante. ¡Simple y clásico! Y siendo simple, esta idea es muy flexible y podría usarse en una campaña corta o larga, tú eliges.
+
+## Paso 2: Preparar la escena de apertura
+
+Para configurar la escena de apertura recomiendo que crees una introducción corta, ya que esto crea un ambiente que hace mucho más fácil definir los objetivos de los personajes. Para hacerlo aún más fácil, un buen consejo es comenzar una aventura con algo de acción y un grupo unido que ya se conoce entre sí y tiene objetivos en común. Créeme, esto acelera el inicio del juego. Veamos la introducción:
+
+> Dos aldeas han sido atacadas recientemente por criaturas indescriptibles y no está claro por qué. Algunas personas están diciendo que fueron los dioses quienes enviaron demonios para castigarlos, otros sospechan que fueron los orcos peleando por territorios. Los ancianos, a su vez, están diciendo que han visto este tipo de cosa y solo puede ser causado por magia poderosa de alguien que se está asociando con fuerzas malignas. El gobernador de la región no se ha posicionado oficialmente sobre los ataques y ciertamente no retirará tropas de la capital para investigar aldeas menores a menos que se convierta en una amenaza para la capital. Por la noche es posible ver señales extrañas en el cielo y un sentimiento de que algo malo está a punto de suceder siempre está presente. Se rumorea que estas criaturas vinieron de una torre alta en las montañas y ahí es donde se dirigen nuestros héroes.
+
+Ahora que tenemos nuestra introducción es más fácil pensar sobre los personajes y entender su motivación, ve:
+
+> Los aventureros se conocen desde hace algún tiempo y han formado una compañía para investigar esta torre en las montañas, encontrar a la persona responsable de estos ataques y poner fin a este caos. Han estado en el camino por tres días y recientemente pasaron por una de las aldeas que fue atacada, siguieron las huellas del camino y llegaron al pie de una montaña. Y aquí es donde comienza nuestra aventura.
+
+Tomamos una hoja de papel y escribimos un título para esta escena:
+
+**Escena 1: Los aventureros al pie de la montaña.**
+
+## Una banda de un solo hombre
+
+Crea personajes jugadores (PCs) siguiendo las reglas del manual del jugador como normalmente harías en un RPG de mesa. Digo personajes en plural y no personaje, porque es muy común en D&D en Solitario y cualquier otro RPG en solitario que el jugador controle más de un personaje a la vez. Puede parecer extraño, pero créeme que es muy divertido y completamente funcional. Sin embargo, si te sientes más seguro creando solo un personaje, no hay problema, haz como te plazca; Mi consejo en este caso es solo comenzar con un personaje ya en nivel 4, ya que las tablas de encuentros y niveles de desafío en los libros de D&D5e siempre prevén un grupo de cuatro PCs.
+
+## Paso 3: Crear los personajes
+
+En nuestra aventura usaremos 4 PCs, como ya se mencionó en la introducción: un guerrero enano, un explorador elfo, un mago gnomo y un pícaro humano. La creación de personajes puede hacerse antes o después de crear la escena inicial (Paso 2), lo importante es que crees los ganchos para que tus personajes no "caigan en paracaídas" en la historia, necesitas tener en mente de dónde vienen, hacia dónde van y por qué van. En nuestro ejemplo todos los héroes vienen de aldeas cercanas y van a la torre misteriosa en las montañas porque quieren erradicar este mal de la región donde viven.
+
+## El caos que ordena todo
+
+Antes de continuar, necesitamos introducir el concepto de Nivel de Caos (CL), que en pocas palabras es un indicador del control de tus PCs sobre los eventos en la aventura. El Nivel de Caos es un índice que va de 1 a 9, siendo 1 el escenario más calmado posible y 9, el más caótico imaginable. Normalmente una aventura comienza con un Nivel de Caos bajo (3) o medio (5), como desees. Mientras la historia se desarrolla tendrás que subir o bajar el CL según los eventos para ajustarlo. En la práctica, el Nivel de Caos será responsable de aumentar la probabilidad de que algo suceda en tu historia, ¡significando que mientras más caótica sea la escena, mayores las posibilidades de que algo imposible suceda!
+
+**Parte 1 | Introducción y Fundamentos**  
+*4*
+
+## Paso 4: Elegir el Nivel de Caos
+
+Adoptaremos un Nivel de Caos promedio CL = 5 para la primera escena de nuestra aventura, ya que un clima de tensión ya está presente en la introducción y el escenario en el que jugaremos. Anotamos el CL junto con el título de la escena:
+
+**Escena 1: Los aventureros al pie de la montaña. CL=5**
+
+## Moviendo el sofá
+
+Aquí viene una nueva mecánica que agudizará tu creatividad y hará tus escenas menos predecibles: cada vez que crees una nueva escena (que no sea un combate), antes de comenzarla haces una Tirada de Caos para ver si sufrirá algún cambio, es decir, lo que sucederá de hecho es diferente de lo que inicialmente imaginaste.
+
+| NIVEL DE CAOS | 1  | 2  | 3  | 4  | 5  | 6  | 7   | 8   | 9   |
+|---------------|----|----|----|----|----|----|-----|-----|-----|
+| DADO DE CAOS  | d4 | d4 | d6 | d6 | d8 | d8 | d10 | d12 | d20 |
+
+La Tirada de Caos debe hacerse con el tipo de dado indicado en la tabla anterior según el CL de la escena. El resultado obtenido de esta tirada debe usarse en la tabla Tirada de Caos para revisar la escena imaginada. A continuación hay una explicación de los posibles resultados de esta tabla.
+
+### Tirada de Caos
+
+| Resultado | Descripción      |
+|-----------|------------------|
+| 1         | Nada             |
+| 2         | Nada             |
+| 3         | Nada             |
+| 4         | Transmutación    |
+| 5         | Abjuración       |
+| 6         | Conjuración      |
+| 7         | Nigromancia      |
+| 8         | Evocación        |
+| 9         | Adivinación-     |
+| 10        | Adivinación+     |
+| 11        | Ilusión          |
+| 12        | Encantamiento    |
+| 13        | Transmutación    |
+| 14        | Abjuración       |
+| 15        | Conjuración      |
+| 16        | Nigromancia      |
+| 17        | Evocación        |
+| 18        | Ilusión          |
+| 19        | Adivinación-     |
+| 20        | Adivinación+     |
+
+**Nada:** Cada vez que la Tirada de Caos resulte en 1, 2, o 3, nada necesita ser cambiado en la escena y puedes comenzarla como estaba planeada.
+
+**Transmutación:** Con magia de la escuela de transmutación, los dados cambian la escena en cuestión. Este es un pequeño cambio que rápidamente imaginas sobre la marcha. Puede ser algo bueno o malo para los PCs, lo importante es que sea diferente de lo que habías planeado para la escena.
+
+**Abjuración:** Los dados liberan magia de abjuración en esta tirada para desterrar algo de la escena. Revisa la escena removiendo algún elemento de ella, algo que se supone que esté presente y ya no está más.
+
+**Conjuración:** Cuando los dados se tiran, el hechizo de conjuración crea algo nuevo en la escena. Revisa la escena agregando algún elemento que no existía antes.
+
+**Nigromancia:** Los dados tejen una magia de la escuela de nigromancia y socavan las fuerzas vitales de los personajes. Tira en la tabla de Enfoque de Evento Negativo y comienza la escena con este evento.
+
+**Evocación:** Infundes los dados con energía extraída de la escuela de evocación. La energía manipula el hilo de la realidad después de la tirada y sucede un evento neutral o positivo. Tira en la tabla de Enfoque de Evento Neutral/Positivo y comienza la escena con este evento.
+
+**Adivinación-:** Usando magia de adivinación, los dados te permiten ver diferentes momentos del tiempo a través del hilo de la realidad. La escena que configuraste es en realidad una posibilidad, porque un evento sucede antes de ella y puede suceder después o no, todo depende de cómo la juegues. Tira en la tabla de Enfoque de Evento Negativo y crea una escena diferente con este evento.
+
+**Adivinación+:** Igual que arriba, pero tira en la tabla de Enfoque de Evento Neutral/Positivo.
+
+**Ilusión:** Tejes los dados con magia de ilusión en esta tirada, causando que algo oculto o confuso sea revelado. Tus PCs se perdieron algo o algo no era exactamente lo que imaginaste. Piensa en algo totalmente inesperado para tus PCs en esta escena.
+
+**Encantamiento:** La magia de encantamiento liberada en esta tirada afecta el comportamiento, emociones y alineación de los personajes. Bajo los efectos del encantamiento, los enemigos se vuelven aliados y los aliados se vuelven enemigos, incluso temporalmente. Cambia el humor o comportamiento de un PNJ o modifica la escena para crear un sentimiento diferente del que estaba planeado previamente.
+
+En la siguiente página hay una tabla con un resumen y ejemplos para cada posible resultado de la Tirada de Caos.
+
+**Parte 1 | Introducción y Fundamentos**  
+*5*
+
+## Paso 5: Verificar si la escena ha sido modificada
+
+En nuestro ejemplo, el Dado de Caos es d8, ya que CL es igual a 5. Tiramos 1d8 = 4.
+
+El resultado es Transmutación, así que algo necesita ser cambiado en la escena que habíamos preparado: Los aventureros llegan al pie de la montaña y se dan cuenta de que hubo un deslizamiento de tierra y será imposible escalar por ese punto. No hay fórmula, es simplemente lo primero que viene a la mente que podría ser interesante para la historia.
+
+Al final de esta página hay una tabla comparando los posibles resultados de la Tirada de Caos para la escena anterior.
+
+## Presiona Play
+
+Para jugar una escena sigue los mismos pasos como si estuvieras jugando en un D&D de mesa:
+
+1. El DM (tú) describe dónde están los personajes y su entorno.
+2. Los jugadores (también tú) describen lo que quieren hacer. Puede ser una acción individual de un solo PC o una acción grupal con más de un PC.
+3. El DM (aquí puedes obtener algo de ayuda...) cuenta los resultados de las acciones de los aventureros. Describir los resultados lleva a otro punto de decisión, que devuelve el flujo del juego al paso 1.
+
+Para resolver las acciones de los personajes, como se describe arriba en el paso 3, hay dos posibilidades. Veamos en la siguiente página.
+
+### Tirada de Caos - Resumen y Ejemplos
+
+| Resultado | Resumen | Ejemplo de Interpretación |
+|-----------|---------|--------------------------|
+| Nada | La escena va según lo planeado | Los personajes llegan al pie de la montaña. Hay un camino, comienzan a escalar |
+| Transmutación | Pequeño cambio en la escena | Ha ocurrido un deslizamiento de montaña y continuar es muy peligroso |
+| Abjuración | Remover algo de la escena | El camino termina al pie de la montaña y no hay paso adelante |
+| Conjuración | Crear algo en la escena | Hay una cueva al pie de la montaña |
+| Nigromancia | Evento Negativo | (PNJ Negativo) Los personajes avistan a un hombre siendo devorado por buitres |
+| Evocación | Evento neutral o positivo | (PC Positivo) El enano reconoce un símbolo tallado en una roca al pie de la montaña y encuentra un pasaje secreto, ciertamente un cuarto del tesoro enano |
+| Adivinación- | Evento negativo antes de la escena planeada | Antes de que los aventureros llegaran al pie de la montaña, decidieron acampar. Durante la noche ladrones trataron de robarles |
+| Adivinación+ | Evento neutral o positivo antes de la escena planeada | Antes de que los aventureros llegaran al pie de la montaña, encontraron a un humano fuerte y bien armado en el camino. Era un guardia de la capital que también vino a investigar los ataques a las aldeas |
+| Ilusión | Algo no era lo que se imaginó o no será como se esperaba | Al acercarse a la montaña, los aventureros notan rastros de un campamento. Parece que cometieron un error y las huellas que en realidad estaban siguiendo eran de Orcos |
+| Encantamiento | Cambio en el Comportamiento del PNJ o Sentimientos del PC | Al llegar al pie de la montaña los aventureros enfrentan una escena espeluznante: un hombre muriendo en un charco de sangre. Hay otros cuerpos esparcidos en el suelo y el olor es tan fuerte que apenas pueden acercarse |
+
+**Parte 1 | Introducción y Fundamentos**  
+*6*
+
+La primera es que si la acción de los personajes puede resolverse con una tirada de salvación, una verificación de habilidad, o alguna otra mecánica de D&D, determina una dificultad apropiada y luego tira los dados. Puedes usar la tabla de abajo (DMG p. 238).
+
+### Clases de Dificultad Típicas
+
+| CD | Dificultad |
+|----|------------|
+| 5  | Muy fácil |
+| 10 | Fácil |
+| 15 | Media |
+| 20 | Difícil |
+| 25 | Muy difícil |
+| 30 | Casi imposible |
+
+La segunda posibilidad es cuando surge una acción que no puede resolverse de esta manera, como una pregunta de escenario, por ejemplo, y entonces debes usar lo que se llama emulación de maestro, o, en un término más de la vieja escuela, "Pregunta al oráculo". En D&D en Solitario, cada vez que necesites resolver una situación como esta tienes que hacer una Verificación del Destino (es lo mismo, solo otro nombre).
+
+## El alma del negocio
+
+Haz una pregunta, como si le estuvieras preguntando al Dungeon Master.
+- ¿Cómo está la taberna?
+
+Convierte la pregunta a algo que pueda responderse con Sí o No. Puede ser más de una pregunta, pero evita más de 3, ya que debe hacerse una Verificación del Destino para cada pregunta.
+- ¿Está la taberna llena? (Sí o No)
+- ¿Hay un bardo tocando? (Sí o No)
+- ¿Hay meseras sirviendo las mesas? (Sí o No)*
+
+*Nota que esta tercera pregunta puede deducirse de la primera, porque si está llena puede ser obvio que las meseras están trabajando. Así que eliminémosla.
+
+Establece las probabilidades de que la respuesta sea sí, basándote en el contexto y reglas de tu aventura y elige la columna según el Nivel de Caos de la escena actual. Si no conoces las probabilidades o tienes dudas, rápidamente elige "50/50".
+
+Determinemos que las probabilidades de la primera pregunta son "Probable" y las de la segunda pregunta son "50/50" y que el Nivel de Caos actual de la aventura es 5 en este ejemplo.
+
+Tira 1d20 y agrega el modificador de la tabla de Verificación del Destino y verifica si pasaste, la clase de dificultad (CD) es siempre 11. Si tuviste éxito, la respuesta es Sí y siguiendo la misma lógica, el fallo es un No.
+
+- ¿Está la taberna llena?
+Probabilidades: Probable, CL=5, modificador +3
+Ejemplo: d20+3 = 10 + 3 = 13 (Sí)
+
+*Tabla de Destino*
+| Imposible           | -10   | -10   | -10   | -10   | -10   | -8    | -7    | -5    | +0    |
+| -------------------- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| Casi Imposible       | -10   | -9    | -9    | -8    | -8    | -5    | -3    | +0    | +5    |
+| Muy Improbable       | -9    | -8    | -7    | -6    | -5    | -3    | +0    | +3    | +7    |
+| Improbable           | -9    | -8    | -7    | -6    | -3    | +0    | +1    | +5    | +8    |
+| 50/50                | -8    | -7    | -5    | -3    | +0    | +3    | +5    | +7    | +9    |
+| Probable             | -6    | -5    | -3    | +0    | +3    | +6    | +7    | +8    | +9    |
+| Muy Probable         | -5    | -3    | +0    | +1    | +5    | +7    | +8    | +9    | +10   |
+| Esperado             | -1    | +0    | +1    | +3    | +5    | +8    | +9    | +10   | +10   |
+| Seguro               | +0    | +1    | +3    | +5    | +6    | +8    | +10   | +10   | +10   |
+| **DADO DE CAOS** | **d4** | **d4** | **d6** | **d6** | **d8** | **d8** | **d10** | **d12** | **d20** |
+| **NIVEL DE CAOS** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
+
+Si el resultado es igual o mayor que la CD, entonces la respuesta a la pregunta es "Sí" y en este caso podemos concluir que la taberna está llena.
+
+Nota que ahora que sabemos que la taberna está llena, las probabilidades de tener un bardo tocando han aumentado. Consideremos "Muy Probable" que haya alguien tocando un instrumento para la multitud dentro de la taberna.
+
+- ¿Hay un bardo tocando?
+Probabilidades: Muy Probable, CL=5, modif. +5
+Ejemplo: d20 + 5 = 20 + 5 = 25 (Sí Crítico)
+
+Si el resultado es igual o mayor que CD, entonces la respuesta a la pregunta es "Sí", pero aquí hay otro detalle, ve abajo.
+
+Si el resultado natural del d20, es decir antes de agregar el modificador, es igual a 1 o 20, el resultado es crítico. Si el resultado es 1 es un No Crítico y si es 20, es un Sí Crítico.
+
+En el ejemplo anterior el resultado del d20 antes de agregar el modificador fue 20, así que el resultado es un "sí crítico". Eso significa que la respuesta es sí y hay algo más detrás de ese sí, algo excepcional. Continuando el ejemplo: ¡podemos interpretar que no solo hay un bardo tocando, sino una banda completa animando a la multitud dentro de la taberna!
+
+Hagamos dos preguntas más en este ejemplo solo para introducir más mecánicas de la Verificación del Destino.
+
+- ¿El bardo de nuestro grupo conoce al posadero?
+Probabilidades: Probable, CL=5, modificador +3
+Ejemplo: d20 + 5 = 8 + 3 = 11 (Sí Débil)
+
+| CD | Dificultad |
+|----|------------|
+| 5  | Muy fácil  |
+| 10 | Fácil      |
+| 15 | Medio      |
+
+| CD | Dificultad          |
+|----|---------------------|
+| 20 | Difícil             |
+| 25 | Muy difícil         |
+| 30 | Casi imposible      |
+
+Cuando el resultado total de la tirada es 10 u 11 significa que el resultado es débil, es decir, si es 10 es un No Débil y si es 11 es un Sí Débil. Para interpretar este tipo de resultado, añade un "a pesar de" o un "pero" en la respuesta.
+
+En este ejemplo el resultado total fue 11, así que Sí Débil. Podríamos entonces interpretar que el bardo sí lo conoce, pero el tabernero no lo recuerda. Si, por otro lado, el resultado total hubiera sido 10, la respuesta sería un No Débil y podríamos interpretar que a pesar de no conocerlo personalmente, cuando el bardo le dice su nombre él reacciona diciendo que ha oído hablar de sus canciones.
+
+Última pregunta:
+
+– ¿El tabernero sabe de alguien que tenga trabajo?
+Probabilidades: Probable, CL=5, modificador +3
+Ejemplo: d20 + 3 = 7 + 3 = 10 (No Débil con Evento Neutral o Positivo)
+
+El resultado fue 10, así que No Débil. Podríamos interpretar que el tabernero no sabe de ningún trabajo, pero nos dice dónde podemos encontrar: "Busquen al capitán de la guardia de la ciudad. Él siempre necesita ayuda con algo."
+
+En esta última pregunta también coincidió que el resultado natural del d20 es 7. Siempre que el resultado natural del d20 sea 7 o 13 en la Prueba del Destino, ocurre un evento en la escena (hablaremos más sobre eventos en el próximo capítulo). Si es 7, tira en la tabla de Foco de Evento Neutral/Positivo y si es 13, usa la tabla de Foco de Evento Negativo.
+
+Tiramos en la tabla de foco d20 = 17, "Trasfondo Positivo" y también tiramos una Idea d8 = 4, "Conocimiento" (no te preocupes... explicaremos esto más tarde). Concluimos que mientras el grupo estaba hablando con el tabernero, el cantante que estaba cantando decidió tomar un descanso y vino al bar. Cuando vio al grupo, exclamó: "¿Cuánto tiempo llevan aquí?" Era un amigo que estudió en la misma escuela que el bardo de nuestro grupo. Hora de ponerse al día...
+
+## Resumen
+
+| Resultado Total | Resultado |
+|-----------------|-----------|
+| ≥ 11           | Sí        |
+| < 11           | No        |
+| = 11           | Sí Débil  |
+| = 10           | No Débil  |
+
+| Resultado Natural d20 | Resultado |
+|----------------------|-----------|
+| = 20                 | Sí Crítico |
+| = 1                  | No Crítico |
+| = 7                  | Evento Neutral/Positivo |
+| = 13                 | Evento Negativo |
+
+## Paso 6: Jugando una escena
+
+La escena que ocurre en nuestra mente es la siguiente: Con el deslizamiento de tierra, el riesgo de escalar la montaña sería muy alto. Nuestros héroes entonces deciden rodear la montaña para encontrar otra forma más segura de avanzar. La pregunta ahora es qué camino tomaremos. ¿Qué hay a la derecha? ¿Y a la izquierda? Tenemos dos preguntas para la Verificación del Destino. Hagamos algunas preguntas de Sí/No para descubrir qué hay a la derecha.
+
+– ¿El camino va hacia la derecha?
+Probabilidades: 50/50, CL=5, modif. +0
+Ejemplo: d20+0 = 8+0 = 8 (No)
+
+– ¿Hay un bosque a la derecha?
+Probabilidades: Probable, CL=5, modificador +3
+Ejemplo: d20+3 = 11 + 3 = 14 (Sí)
+
+Conclusión: Hay un bosque a la derecha.
+
+Nota que incluso después de tomar la primera Verificación del Destino aún no sabíamos qué había en el camino derecho, porque la respuesta que obtuvimos a la primera pregunta fue "No", lo que justificó una nueva Verificación del Destino. Solo después de hacer la segunda pregunta y obtener un "Sí" descubrimos que había un bosque en el camino derecho.
+
+Ahora para descubrir qué hay en el camino izquierdo necesitamos hacer otra Verificación del Destino:
+
+– ¿El camino va hacia la izquierda?
+Probabilidades: Muy Probable, CL=5, modificador +5
+Ejemplo: d20+5 = 1+5 = 6 (No Crítico)
+
+¡No lo viste venir! El resultado natural del d20 fue igual a 1. ¿Qué hacer con este No Crítico? Tranquilo, respira profundo y piensa en algo totalmente contrario al "Sí = camino". ¡Una cascada, listo!
+
+El explorador del grupo escucha el sonido del agua, sube a una roca para mirar adelante y grita al grupo: "Creo que es una cascada, y el ruido debe ser de una caída bastante grande...". Los personajes obviamente deciden ir por el bosque, porque aunque puede ser peligroso, aún tienen prisa por rodear la montaña. El explorador entonces decide ver si hay rastros recientes de animales allí, para tener cuidado.
+
+Usando las mecánicas de D&D podemos establecer una CD = 10 (fácil) y hacer una verificación de Supervivencia (Sabiduría) para encontrar los rastros de las criaturas que viven allí.
+
+Ella pasa la prueba. Nueva pregunta: ¿Qué rastros encuentra el explorador? Y vamos a la Verificación del Destino:
+
+– ¿El explorador encuentra rastros de Orcos?
+Probabilidades: Probable, CL=5, modificador +3
+Ejemplo: d20+3 = 10 + 3 = 13 (Sí)
+
+Date cuenta de que en Solo D&D tienes control completo sobre tu aventura. Aquí cualquier criatura podría ser colocada según el contexto y tema de tu campaña. En nuestro caso elegimos Orcos. Pero continuemos la escena: El explorador se agacha para examinar los rastros, su rostro se tensa, y parece escudriñar de nuevo para estar segura, mientras allí solo pronuncia una palabra "Orcos...". El guerrero enano desenvaina su espada incluso antes de que continúe. El mago se acerca con las manos detrás de él y mira al suelo; luego se rasca la barba y pregunta al explorador: ¿Pero estos rastros son recientes? Nueva Verificación del Destino:
+
+– ¿Los rastros son recientes?
+Probabilidades: Muy Probable, CL=5, modif. +5
+Ejemplo: d20+5 = 13 + 5 = 18 (Sí y Evento Negativo)
+
+Hablaremos más sobre eventos en el próximo capítulo, pero solo para terminar el ejemplo: tiramos d20 en la tabla de Foco de Evento Negativo d20 = 7, ¡Combate!
+
+Conclusión: El explorador responde al mago diciendo que los rastros son de solo unas horas y no solo eso, mientras hablan, todos escuchan el sonido de gruñidos viniendo del bosque... ¡Tira Iniciativa!
+
+Hay varias formas de preparar un encuentro. Aquí optaremos por un encuentro equilibrado según la EX total de los monstruos, que es la forma más conservadora de hacer esto. Si no sabes cómo construir encuentros o si tienes alguna pregunta en este ejemplo, consulta la Guía del Dungeon Master (DMG p.81-87). Siendo un grupo de cuatro PCs de nivel 1, el límite total de EX del grupo según la dificultad del encuentro sería el siguiente (ver DMG p.82):
+
+Fácil: 100 EX (25 + 25 + 25 + 25)
+Medio: 200 EX (50 + 50 + 50 + 50)
+Difícil: 300 EX (75 + 75 + 75 + 75)
+Mortal: 400 EX (100 + 100 + 100 + 100)
+
+El Orco tiene CR = 1/2 (MM p.246) y 100 EX, así que encajaría en un encuentro de dificultad Fácil. Un encuentro con dos Orcos totalizaría 300 EX, porque además de sumar la EX de cada monstruo, es necesario aplicar un multiplicador según el número de monstruos; el multiplicador para dos monstruos es 1.5 (DMG p.82) así que:
+
+EX Total = (100 EX + 100 EX) x 1,5 = 300 EX (Difícil)
+
+Entre el encuentro Fácil y el Difícil, optaremos por el Fácil, ya que aún estamos al comienzo de la aventura y el nivel de caos es medio. Conclusión: Solo un orco sale de los arbustos hacia los aventureros.
+
+## Termina lo que empezaste
+
+Como ya se explicó, cada escena tiene una acción principal, como explorar, combatir, dialogar, interrogar, etc. Cuando la acción principal se completa, la escena termina. También recuerda la estructura ya presentada: una escena debe terminar siempre con un "desastre", es decir, algo que servirá como gancho para la próxima escena.
+
+Al final de cada escena debes revisar el CL. Si la escena terminó en una situación caótica y fuera de control, aumenta el CL; si la escena terminó de manera controlada y calmada, baja el CL; Si no pasó nada impactante, mantén el CL como está. Siempre respetando los valores mínimo y máximo, 1 y 9, respectivamente. En ocasiones extremas puedes cambiar el CL por dos puntos, como cuando un PC muere (+2) o cuando el villano importante es derrotado (-2).
+
+Cuando termines una escena, puedes resumir lo que es importante y anotar nombres de nuevos NPCs o lugares, así como actualizar la lista de objetivos de tus PCs.
+
+## Paso 7: Terminando una escena
+
+Los personajes al pie de la montaña ya han analizado el mejor camino, investigado rastros y tenido un poco de diálogo. La próxima acción será un combate, que es diferente de lo que estaba pasando hasta ahora, así que decidimos terminar esta escena para comenzar otra. El resumen de la escena 1 podría verse así:
+
+**Escena 1: Los aventureros al pie de la montaña CL=5**
+Deslizamiento de tierra
+Derecha - Bosque; Izquierda - Cascada
+Encuentro: 1 Orco
+
+Debido a que el final está en un momento tenso con combate inminente, aumentaremos el Nivel de Caos en 1 punto y la próxima escena comenzará con CL = 6. La Escena 2 debe entonces elaborarse siguiendo los mismos pasos que hemos tomado aquí. Y así sucesivamente para todas las otras escenas.
+
+## Eventualmente tu escena puede cambiar
+
+Siempre que la Tirada de Caos resulte en Nigromancia, Invocación o Adivinación, o cuando el resultado natural del d20 sea 7 o 13 en la Verificación del Destino, significa que ocurre un evento en la historia. Los eventos pueden cambiar completamente el curso de tu historia y llevarte por caminos que nunca conociste antes, haciendo la aventura menos predecible y más divertida.
+
+Siempre que ocurra un evento, necesitarás hacer un ejercicio de creatividad y pensar en algo que ocurrirá en la historia. Podemos dividir la elaboración de un evento en tres elementos: contexto, foco e idea.
+
+## Tiene que tener sentido
+
+El contexto es todo lo que ha pasado desde el comienzo de tu aventura hasta la escena actual. Analizar el contexto es, por lo tanto, establecer una línea de razonamiento de lo que tiene sentido o no en tu historia.
+
+Por ejemplo: Tus PCs están explorando una mazmorra, ya han luchado contra algunas criaturas hostiles y algunos personajes han sido heridos. Al entrar en una cámara ocurre un evento que se centra en "Nuevo NPC". Ciertamente no puedes hacer que aparezca un comerciante de la nada para ofrecer una poción de curación a los héroes heridos simplemente porque eso no tendría sentido; Si, por otro lado, pones en esta cámara un viejo prisionero que estaba débil y caído y que pidió ayuda para liberarse de ese lugar, sería un evento mucho más alineado con el contexto de la aventura.
+
+Un buen termómetro para crear eventos en contexto es mirar el Nivel de Caos actual: si es bajo, piensa en algo pequeño y predecible, pero si es alto piensa en algo realmente caótico e inesperado.
+
+# No pierdas el enfoque
+
+El segundo elemento para analizar en la elaboración del evento es el enfoque. Mientras que el contexto solo ayuda a establecer algunos límites de lo que puede o no suceder, el enfoque, a su vez, es más una dirección de hacia dónde impactará el evento en tu aventura. Los posibles enfoques de eventos se dividieron en dos tablas: una de eventos negativos y otra de eventos neutrales o positivos. Para determinar el enfoque, tira 1d20 en una de las tablas. A continuación se presenta una breve explicación de cada posible resultado de las dos tablas.
+
+## 1d20 Enfoque de Evento Negativo
+
+1-7 **Combate**  
+8-10 **Objetivo Negativo**  
+11-14 **PNJ Negativo**  
+15-17 **PJ Negativo**  
+18 **Instigar**  
+19 **Trasfondo Negativo**  
+20 **Objeto Mágico Negativo**  
+
+**Combate**: bandidos saltando desde un callejón, goblins saliendo de un agujero hacia ti, un vampiro abriendo la tapa del ataúd, o un pudín negro cayendo del techo sobre el grupo aventurero. Sin importar quién o qué aparezca en la escena, esta es una oportunidad para poner algo de acción en tu aventura para impulsarla. Cuando se tira este enfoque, prepara un encuentro de combate para tus PJs, puede ser algo que ya tengas en mente que esté en el contexto de tu aventura, como un villano de campaña, o simplemente un encuentro aleatorio. Recuerda que aunque sea un evento de combate, tus personajes pueden intentar evitar la confrontación directa tratando de calmar a una bestia o simplemente huyendo.
+
+**Objetivo (positivo y negativo)**: Los objetivos son lo que guía a tus PJs. En tu grupo puede haber objetivos personales y colectivos. Cuando sucede este tipo de evento, elige o determina aleatoriamente uno de los objetivos, tira una Idea e interpreta. Objetivo Positivo es un evento que acerca al menos a uno de tus PJs a uno de los objetivos, como encontrar una pista sobre un crimen que los PJs están investigando. Siguiendo la misma lógica, un evento con enfoque Objetivo Negativo aleja a un PJ de un objetivo personal o al grupo de un objetivo colectivo; sería como descubrir que la pista era falsa y solo perdieron tiempo.
+
+**PJ y PNJ (positivo y negativo)**: Algo bueno o malo le sucede a uno de tus personajes, un PJ o un PNJ, como se indica en la tabla de enfoque utilizada. Puede ser algo pequeño como encontrar una carta o algo grande como ser atacado por una criatura; dependerá del contexto de tu aventura y de cómo elijas interpretarlo. Cuando se tira este tipo de evento, elige o determina aleatoriamente uno de los personajes, tira una Idea e interpreta.
+
+**Instigar**: Cuando sucede un evento con este enfoque, debes crear una situación para instigar a tus personajes. Elige o determina aleatoriamente uno de tus PJs y analiza sus defectos, vínculos y su alineamiento, tira una *Idea* y luego crea algo que sea realmente tentador para ellos y haz una Tirada de Salvación de Sabiduría, Inteligencia o Carisma, la que consideres más apropiada, con CD = 20 (Difícil) para que el PJ no ceda a la tentación que has creado. Los héroes leales y de alineamiento bueno (LB) pueden ser fácilmente instigados si pones en peligro a un inocente; otros PJs más complejos, sin embargo, pueden requerir un poco más de creatividad. Por ejemplo, si un PJ está a punto de capturar al villano de la campaña y tiras el evento Instigar, necesitarás improvisar algo realmente tentador hasta el punto de que sea muy probable que el PJ deje escapar al villano, incluso si lo lamenta después. Tal vez si el villano dejara caer su grimorio o un arma muy poderosa como un cetro o una espada maldita, el PJ podría intentar recoger ese objeto y accidentalmente dejar que el villano escape.
+
+**Trasfondo (positivo y negativo)**: Algo relacionado con el pasado de tus PJs surge. Cuando se tira este tipo de evento, elige o determina aleatoriamente un PJ, analiza su trasfondo, tira una Idea e interpreta. "Trasfondo Positivo" es algo positivo para el PJ, puede ser que encuentre un antiguo aliado o la posibilidad de resolver algún asunto pendiente del pasado. De manera similar, "Trasfondo Negativo" es malo para el PJ, tal vez alguien que conoce un secreto sobre él y amenaza con contárselo al grupo o un antiguo rival que lo encuentra nuevamente.
+
+**Objeto Mágico (positivo y negativo)**: Este tipo de evento necesita involucrar cualquier objeto mágico. Cuando sucede este tipo de evento, inventa, elige o determina aleatoriamente un objeto mágico, tira una Idea e interpreta. Puede ser que tus PJs estén caminando por la ciudad y un comerciante misterioso los detenga ofreciéndoles algo, o que el pícaro del grupo escuche rumores sobre el paradero de un artefacto muy raro y valioso, o que uno de los PJs tenga un sueño o una visión sobre un amuleto perdido, o si reciben un regalo de un PNJ desconocido que tiene intereses comunes...
+
+**Parte 1 | Introducción y Básicos**  
+10
+
+## 1d20 Enfoque de Evento Neutral/Positivo
+
+1-2 **Evento Remoto**  
+3-4 **Evento Ambiguo**  
+5-6 **Nuevo PNJ**  
+7-14 **Acción de PNJ**  
+15 **PNJ Positivo**  
+16 **PJ Positivo**  
+17 **Objeto Mágico Positivo**  
+18 **Trasfondo Positivo**  
+19-20 **Objetivo Positivo**  
+
+**Evento Remoto**: Algo importante sucedió en su aventura, pero los PJs no estuvieron presentes cuando ocurrió el evento. Cuando sucede un evento con este enfoque, también tira una Idea e interpreta. Por ejemplo: Tus PJs escuchan en la taberna que los mineros del pueblo han encontrado una veta de adamantina en sus excavaciones. Otro ejemplo: Los héroes escucharon sobre una fiesta que tuvo lugar en la mansión de uno de los nobles que reunió a dos familias importantes de la ciudad. Un evento remoto puede ser positivo, negativo o ambiguo, depende de ti.
+
+**Evento Ambiguo**: Cuando sucede un evento con este enfoque, también tira una Idea e interpreta. El evento ambiguo abarca todo lo que, a diferencia de la mayoría de los eventos, no impacta directamente a los personajes de manera positiva o negativa. Un buen ejemplo es el clima, la lluvia puede ser un evento ambiguo, ya que afecta la aventura, pero usualmente no es positiva o negativa para los personajes. El evento ambiguo también puede ser algo que traiga misterio o suspenso y al principio no está claro si es bueno o malo para los personajes y solo a medida que se desarrolla la historia se descubrirá. Por ejemplo: El pícaro se cuela en la mansión de un noble buscando información, y ocurre un evento ambiguo: se escucha un ruido afuera. No puedes saber al principio si este evento es algo bueno o malo para el pícaro, pero después de algunas Verificaciones del Destino, resulta que solo era un gato y un perro peleando en el patio.
+
+**Nuevo PNJ**: Introduce un nuevo PNJ. Puede ser un encuentro ya esperado para tus PJs, o totalmente aleatorio, con un solo personaje o un grupo de personajes, como una secta, gremio, o guardia de la ciudad.
+
+**Acción de PNJ**: Uno de los PNJs ya presentados en la aventura realiza una acción que de alguna manera afecta a los PJs. Puede ser positiva, negativa o neutral. Elige o determina aleatoriamente uno de los PNJs, tira una Idea y decide qué tipo de acción tomará. Algunos ejemplos: Un noble de la ciudad envía una carta a los héroes intimándolos a presentarse en el castillo; Un rival de tu grupo de aventureros les prepara una emboscada; El posadero decide advertir a tus PJs que anoche un forastero preguntó por ellos en la taberna; Una joven doncella busca a los héroes para pedir ayuda con algo.
+
+## Una idea para ti
+
+Con el enfoque del evento en mente, ahora necesitas pensar en qué sucedió exactamente en tu historia. Para facilitar este proceso, puedes usar un tercer elemento, la Idea del evento, que no es más que una palabra clave para ayudarte a imaginar lo que realmente pasó en la historia. La Idea sirve como trampolín para tu imaginación. Para hacer esto, tira 1d8 y elige una de las nubes de palabras del Anexo B según el resultado. Luego elige una palabra aleatoria de la nube sorteada y úsala para crear el evento. Piensa en esta palabra como la idea central, concepto, definición, significado o pista sobre el evento en cuestión.
+
+A veces la Idea es innecesaria porque ya tienes algo en mente basado solo en contexto y enfoque y ¡no hay problema! Lo importante es que tu juego no se atasque porque no sepas cómo interpretar un evento. Si has leído hasta aquí, entonces has visto toda la mecánica del D&D Solitario. Las siguientes páginas solo te ayudarán a mejorar la experiencia de jugar solo. Ahora es el momento de poner en práctica lo que ya has aprendido; juega un poco solo para practicar y absorber las mecánicas presentadas y después de eso los siguientes capítulos tendrán mucho más sentido.
+
+**Parte 1 | Introducción y Básicos**  
+11
+
+# Buenas prácticas de D&D Solitario
+
+## ¿¿Qué hora es??
+
+Al comenzar una escena, establece la hora en que comienza (en tiempo del juego). Suena simple, pero hace mucha diferencia si tus personajes salen de viaje de día o a la luz de la luna. Una vez que termina una escena, evalúa lo que pasó y estima cuánto duró la escena para que puedas determinar la hora de inicio de la siguiente escena. Para tener una noción del tiempo en D&D, ve lo que está escrito en el manual del jugador de la 5ta edición:
+
+En un ambiente de mazmorra, el movimiento de los aventureros sucede en una escala de minutos. Les toma aproximadamente un minuto arrastrarse por un pasillo largo, otro minuto verificar trampas en la puerta al final del pasillo, y unos buenos diez minutos buscar en la cámara siguiente algo interesante o valioso. En una ciudad o naturaleza salvaje, una escala de horas suele ser más apropiada. Los aventureros ansiosos por llegar a la torre solitaria en el corazón del bosque se apuran a través de esas quince millas en poco menos de cuatro horas. Para viajes largos, una escala de días funciona mejor.
+
+## Lista de listas
+
+Haz listas de cosas importantes para tu aventura. Lista de objetivos, lista de PNJs, lista de objetos mágicos, lista de monstruos comunes en la región. De esta manera, cada vez que tires un evento con un PNJ, por ejemplo, tendrás todos los personajes que ya han aparecido en la campaña. Al final de cada escena actualiza tus listas agregando nuevos elementos que han aparecido en la historia y eliminando aquellos que por alguna razón ya no pueden aparecer en la aventura.
+
+También puedes crear una Lista de Trasfondo y poner en ella los eventos principales y PNJs vinculados al pasado de cada PJ. Cuando algo conectado con el pasado de este PJ sucede en la aventura, actualizas tu Lista de Trasfondo. Esto seguramente te facilitará la vida cuando tires un evento con Trasfondo.
+
+## El Poder del Caos
+
+El Nivel de Caos es una mecánica muy interesante y poderosa si sabes cómo usarla. Te permite producir en tu aventura una especie de clímax. Algo que es muy común en películas y series, por ejemplo, donde el nivel de tensión usualmente comienza bajo o medio y sube a medida que se desarrolla la historia, hasta que alcanza un clímax, que en una campaña podría ser el encuentro con el villano. Esto es posible porque el NC es responsable de "desequilibrar" las Verificaciones del Destino y aumentar la frecuencia de escenas cambiadas con la Tirada de Caos, así que aumentar el NC es como lanzar una bomba a tu historia.
+
+## Ten cuidado con los extremos
+
+Siempre ten cuidado al usar extremos del Nivel de Caos, una campaña ejecutada demasiado tiempo en NC 1 o 9 puede convertirse en un verdadero desastre; El primer caso es aburrido porque absolutamente nada sucede, ¡y el segundo es vertiginoso porque todo lo imposible se vuelve real! Así que reserva estos extremos para momentos verdaderamente especiales en tu historia. Un buen rango para jugar la mayor parte de la campaña es de 3 a 7; Estos límites proporcionarán un poco de aleatoriedad y asegurarán el éxito de tu campaña sin perder los pies del suelo.
+
+## Doble o nada
+
+Volvamos a ese ejemplo en el que elaboramos la escena inicial; los héroes al pie de la montaña, ¿recuerdas? Al comenzar la escena, viendo el deslizamiento de tierra, los personajes analizan ambos caminos, derecho e izquierdo:
+
+– ¿El camino va a la derecha?  
+Probabilidades = 50/50, NC=5, modif. +0  
+Ejemplo: d20+0 = 8+0 = 8 (No)
+
+– ¿Hay un bosque a la derecha?  
+Probabilidades: Probable, NC=5, modificador +3  
+Ejemplo: d20+3 = 11 + 3 = 14 (Sí)  
+Conclusión: Hay un bosque a la derecha.
+
+Si miramos un poco más, la segunda pregunta podría suprimirse, pues al recibir el primer "No" simplemente podríamos elegir cualquier cosa que no sea "el camino va a la derecha" y continuar con la interpretación, especialmente cuando se trata de algo tan arbitrario y subjetivo. Pero lo que me gustaría proponer aquí es otra forma de resolver esta situación para evitar la necesidad de hacer una segunda pregunta cada vez que obtienes un "No" de la Verificación del Destino.
+
+Puedes usar esta verificación de manera diferente para obtener respuestas rápidamente y facilitar la interpretación. Cuando hagas una pregunta, piensa primero en un significado para sí y otro para no; Es como hacer dos preguntas al mismo tiempo, o crear dos alternativas para tu respuesta. Incluso podemos cambiar la forma en que preguntamos, mira abajo.
+
+Creemos dos alternativas: si el resultado es "Sí" determinamos que el camino va a la derecha y si es "No" hay un bosque ahí. En este método las Probabilidades siempre deben basarse en la primera alternativa, "Sí".
+
+– ¿Qué hay a la derecha?  
+Sí = camino (50/50, NC=5, modif. +0)  
+No = bosque  
+Ejemplo: d20+0 = 8+0 = 8 (No = bosque)
+
+**Parte 2 | Buenas prácticas de D&D Solitario**  
+12
+
+Hagamos dos preguntas más de ese ejemplo siguiendo este nuevo formato:
+
+– ¿Qué hay a la izquierda?  
+Sí = camino (Muy Probable, NC=5, modif +5)  
+No = río  
+Ejemplo: d20+5 = 1 +5 = 6 (No Crítico=???)  
+Conclusión: El "No crítico" en este caso puede interpretarse de dos maneras:  
+Algo totalmente opuesto a "Sí = camino" como un cañón; o  
+Una exageración de "No = río", como un lago.
+
+Último ejemplo en este nuevo formato de pregunta:
+
+– ¿Qué rastros encuentra el explorador?  
+Sí = Orcos (Probable, NC=5, modificador +3)  
+No = Lobos  
+Ejemplo: d20+3 = 10 + 3 = 13 (Sí = Orcos y evento Negativo)  
+Conclusión: El explorador encuentra rastros de Orcos y habrá un evento negativo.
+
+Una pequeña nota: date cuenta de que en D&D Solitario tienes control completo sobre tu aventura; En esta última pregunta se podrían colocar cualesquiera criaturas según el contexto y tema de tu campaña. En este ejemplo se eligieron orcos y lobos.
+
+En tu aventura siéntete libre de alternar entre el método convencional de Verificación del Destino y el que acabamos de ver.
+
+## No te hagas el listo
+
+Si ya entiendes la malicia del asunto, no te hagas el listo:
+
+NC = 9, se hacen tres preguntas al entrar a la última habitación de la mazmorra...
+
+– ¿Está vacía la habitación? (50/50)  
+– ¿Encuentro una espada larga +3? (Probable)  
+– ¿Mi personaje sube de nivel? (Muy Probable)  
+
+Muy astuto. Sabiendo que un Nivel de Caos alto aumenta las probabilidades de "Sí" en la Verificación del Destino, hacer solo preguntas que favorezcan a tus héroes con este NC ¡es robarte a ti mismo!
+
+No juegues a la lámpara mágica. Evita regalar objetos, tesoros y otras cosas a tus héroes con la Verificación del Destino. Deja ser generoso en eventos con enfoque positivo (PJ positivo, por ejemplo). Otro punto importante sobre las preguntas de Verificación del Destino: No uses preguntas en forma negativa, ya que esta mecánica no funciona bien para este tipo de pregunta.
+
+– ¿La cueva no tiene a nadie adentro?  
+– ¿No hay monstruos ahí?  
+– ¿No hay señales del villano?  
+
+## No te dejes llevar por la bola de cristal
+
+¿Puedo hacer cualquier pregunta para la Verificación del Destino? Sí, pero por favor, ¡no! Después de todo, si entras a una biblioteca no querrás saber todos los libros que hay ahí, ¿verdad?! Trata de usar un máximo de 3 Verificaciones del Destino para resolver una pregunta y el resto es creatividad e improvisación. Sigue el principio del contexto y llegarás lejos.
+
+## ¿Qué pasa si mi mente se queda en blanco?
+
+El D&D Solitario se ve directamente afectado por tu habilidad para interpretar. A veces interpretar es fácil, casi automático, pero a menudo puede convertirse en una tarea intrincada y parece que ninguna idea cruza por tu mente. No pierdas demasiado tiempo tratando de interpretar algo que has tirado, pero no tiene sentido. Ni siquiera dejes que tu juego se colapse simplemente porque no pudiste pensar en cómo interpretar una respuesta de Verificación del Destino. En estos casos, simplemente ignóralo y sigue adelante. Ten en cuenta que mantener tu juego de D&D Solitario divertido y dinámico requiere que no interrumpas el flujo de ideas. El suplemento Mythic Variations tiene una gran regla para esto, la "regla de los 10 segundos": al interpretar un resultado, date solo 10 segundos para hacerlo, en otras palabras, toma lo primero que se te ocurra y si tienes un bloqueo mental, olvídalo y sigue adelante lo más posible.
+
+**Parte 2 | Buenas prácticas de D&D Solitario**  
+13
+
+## ¿No cambia el resultado el orden de los factores?
+
+Usualmente hay tres formas de resolver una Verificación del Destino, aquí está cómo funcionan estos tres métodos.
+
+### Método Reactivo
+Verificación → Imaginar → Consecuencias
+
+En este método actúas primero como jugador, aunque no tengas idea de lo que viene, y haces una verificación que sea apropiada para la acción que tu personaje pretende realizar. Según el resultado de la verificación, te preguntas qué sucede y piensas en las consecuencias de la acción del PJ. Veamos dos ejemplos:
+
+**Ej1**: Los personajes están cazando un vampiro y entran a la habitación de la mazmorra buscándolo. Decides hacer una verificación de Sabiduría (Percepción) y el resultado tirado es 14. Con este resultado imaginas que es muy probable que los personajes encontraran algo, ¿pero qué? Decides hacer una Verificación del Destino con el modificador "Muy Probable":
+
+– ¿Los personajes encuentran al vampiro?  
+Respuesta: Sí
+
+La consecuencia de esta situación la resuelves tirando las iniciativas y comenzando un combate.
+
+**Ej2**: Los personajes invaden una mansión abandonada y, al entrar a una de las habitaciones, deciden buscar en el área. Haces una verificación de Inteligencia (Investigación) y el resultado es 6. Con este resultado, ciertamente no encuentran nada. Puedes terminar aquí sin tener que imaginar nada o pensar en posibles consecuencias.
+
+### Método Creativo
+Imaginar → Verificación → Consecuencias
+
+El segundo método es el más tradicional, donde actúas primero como DM e imaginas algo en la escena ya sea que uses o no la Verificación del Destino; debe ser algo que sabes que existe y está ahí, pero tus personajes aún no lo saben. Luego haces una verificación como jugador para ver si los personajes se dan cuenta o detectan lo que has creado - usualmente usas alguna mecánica de D&D aquí, pero si no hay una mecánica apropiada para ello, también puedes usar otra Verificación del Destino - y, finalmente, piensas en la consecuencia del resultado de la prueba e interpretas la escena. Rehagamos los ejemplos ya usados:
+
+**Ej1**: Los personajes están cazando un vampiro y están a punto de entrar a una habitación de mazmorra. Haces una o dos Verificaciones del Destino e imaginas algo: El vampiro está en la habitación pero se está escondiendo detrás de una columna.
+
+Tus personajes entran a la habitación. Estipulas que la mecánica a usar será una verificación de Sabiduría (Percepción) y la CD es 15 para notar la presencia del vampiro. Haces la verificación y el resultado es 14, una falla. Así que interpretas que el vampiro los ataca por sorpresa.
+
+**Ej2**: Los personajes irrumpen en una mansión abandonada, y al entrar a una de las habitaciones, te preguntas qué tiene ahí: una biblioteca con estantes llenos de libros viejos sobre varios temas y un escritorio. En el cajón del escritorio hay un botón secreto. Decides hacer una verificación de Inteligencia (Investigación) con CD 15 para que los personajes encuentren el botón. El resultado de la tirada es 6, una falla. Por lo tanto interpretas que los personajes no detectan el botón y la consecuencia es que no pasa nada.
+
+Nota que los dos ejemplos en este segundo método tuvieron un resultado ligeramente diferente al método Reactivo! Aquí el vampiro ganó la ventaja del ataque sorpresa y apareció un botón secreto en la biblioteca de la mansión, aunque no fue detectado.
+
+### Método Proactivo
+Imaginar → Consecuencias → Verificación
+
+El tercer método es similar al segundo, pero debes pensar en las consecuencias antes de hacer cualquier verificación. Vamos a los ejemplos:
+
+**Ej1**: Los personajes están a punto de llegar a la cámara de la mazmorra. Haces algunas Verificaciones del Destino e imaginas que el vampiro está ahí pero se está escondiendo detrás de una columna. Luego piensas en las consecuencias: Si los personajes se dan cuenta de que está ahí, comienza una pelea; pero si no es percibido, atacará de todos modos, pero con el elemento sorpresa. Haces una verificación de Sabiduría (Percepción) con CD 15 para notar la presencia del vampiro y el resultado es 14, una falla. Así que interpretas que el vampiro los ataca por sorpresa.
+
+**Ej2**: Los personajes entran a una habitación de la mansión e imaginas que hay una biblioteca, un escritorio y un botón secreto. Luego piensas en las consecuencias: Si los aventureros encuentran este botón y lo presionan, se abrirá un pasaje secreto en la pared, con una escalera que lleva al sótano; Si no lo encuentran, no pasa nada. Haces una verificación de Inteligencia (Investigación) con CD 15 y el resultado es 6, una falla. Por lo tanto interpretas que los personajes no detectan el botón y no pasa nada.
+
+Nota que los resultados del método Proactivo fueron similares a los del método Creativo, pero fue necesario imaginar un poco más en el caso del pasaje secreto del segundo ejemplo, algo que ni siquiera se usó.
+
+**Parte 2 | Buenas prácticas de D&D Solitario**  
+14
+
+Ahora que hemos visto algunos ejemplos, comparemos los tres métodos. Tal vez el método más común es el creativo porque sigue la misma línea de pensamiento que un RPG de mesa con la presencia de un DM: el DM crea la escena, los jugadores dicen lo que quieren hacer, y el maestro resuelve la escena. En este método el escenario está vivo, tiene más detalles e interactúa con los personajes según sus acciones. Siempre tendrás que imaginar algo para el escenario, pero esperará la acción del PJ antes de reaccionar.
+
+El método reactivo es bastante práctico ya que solo tienes que imaginar lo que es necesario según las acciones de los personajes. Este método es ideal cuando quieres acelerar un poco la historia. En este método el mundo y el escenario giran alrededor de los personajes y sus acciones - pero eso no excluye completamente la aleatoriedad y la oportunidad que tienes que ejercitar tu imaginación, ya que todavía hay otras mecánicas que contribuyen a ello, como eventos y Tirada de Caos.
+
+En el método proactivo siempre tendrás más trabajo, pero creo que es lo más cercano a un maestro que prepara toda una campaña llena de detalles y posibilidades para sus jugadores en un RPG de mesa. En este método, ya defines de antemano las consecuencias de los encuentros, los planes y tácticas de los villanos, los tipos de trampas, las amenazas de la mazmorra, las posibles acciones de los PNJs y así sucesivamente... En este método el mundo está mucho más vivo y existe independientemente de las acciones de los PJs.
+
+En resumen, no hay una forma correcta de jugar, pero si ya estás familiarizado con las mecánicas del D&D Solitario, te sugiero que pruebes los tres métodos y veas cuál funciona mejor para ti. Nada también te impide alternar entre los tres, dependiendo de la situación.
+
+## Invierte en el reparto
+
+Los PNJs son tan importantes en algunas historias como los PJs, ya que asumen roles muy activos en la aventura. En el D&D Solitario serás entrenado para crear nuevos personajes y con el tiempo esto seguramente se convertirá en un ejercicio natural, divertido y agradable. No necesitas detallar demasiado, solo crea lo que necesites para el momento y deja tu mente abierta con la posibilidad de incrementar un personaje después. Cada vez que necesites crear personajes para tu aventura, recomiendo usar el UNE - Universal NPC Emulator para dar a tus PNJs una personalidad única y motivaciones interesantes.
+
+Durante el juego, al realizar una acción con un PNJ, siempre trata de analizar el contexto de la historia y las motivaciones de ese PNJ, para que esta acción tenga sentido para la historia y el personaje mismo. Por ejemplo, el grupo de PJs regresa a una ciudad conocida y es hora del espectáculo para tu PNJ: Melvin Turncup, un mendigo borracho, se les acerca. Eliges la Idea "tecnología" en la nube de palabras y el mendigo saca una navaja gnómica... Tal vez la navaja incluso tenga sentido para tu historia, pero ciertamente no tiene nada que ver con un mendigo. Si este es el caso, es mejor interpretar que el mendigo le pide una moneda al grupo y saca el tema diciendo que vio a un tipo nuevo en la ciudad con una "navaja de bolsillo extraña". Ahora, si nada de esto tiene sentido, ignora esa Idea y simplemente haz que el mendigo pida una moneda y se vaya quejándose y maldiciendo.
+
+**Parte 2 | Buenas prácticas de D&D Solitario**  
+15
+
+# Secreto del Éxito
+
+Las campañas épicas de D&D tradicionalmente involucran un escenario de fantasía medieval con héroes, villanos, magia, criaturas fantásticas, tesoros, objetos mágicos y las grandes celebraciones de taberna. Obviamente también queremos todo esto cuando jugamos D&D en Solitario y sepan: es posible. En una campaña en solitario necesitarás crear tus personajes, darles vida y, al mismo tiempo, crear un mundo donde puedan hacer cosas increíbles e inventar algunos obstáculos que los desafíen. En D&D en Solitario eres el maestro-jugador y tienes todas las herramientas que necesitas para crear la mejor de las aventuras. Sin embargo, viendo todos estos elementos y tantos más que podrían citarse, es difícil imaginar cuál debería ser la habilidad del maestro-jugador para conducir tal aventura; seguramente eventualmente dejarías algo de lado entre todos los detalles. Aunque parezca una tarea difícil, en realidad hay un secreto infalible que es muy simple y tiene todo que ver con la regla de oro usada por los mejores Dungeon Masters, donde lo más importante es la diversión, es decir, el secreto para crear una aventura épica es enfocarse en la diversión; en este caso es tu diversión.
+
+Hay muchos tipos de jugadores, por lo que es crucial que descubras con cuál tipo te identificas más, qué actividades te mantienen más comprometido y aumentan tu inmersión en una aventura.
+
+Esta guía está diseñada para atender a todos los tipos de jugadores de RPG, pero nada te impide modificar las mecánicas y tablas para que ciertas actividades sean más o menos frecuentes en tus aventuras. Por ejemplo, si te gusta luchar, podrías definir que cada vez que hubiera un evento, fuera un combate en lugar de tirar en las tablas de enfoque. La siguiente lista está organizada pensando en los principales tipos de actividad en una campaña de D&D. (DMG p.6).
+
+## Actuar
+
+Si te gusta interpretar los personajes como un verdadero actor y crear narraciones detalladas en juegos de rol, aquí tienes algunos consejos para aumentar tu disfrute del D&D en Solitario:
+
+No es porque la campaña sea en solitario que tus personajes no merecen tener un trasfondo bien diseñado. El sistema de creación de personajes de la 5ª edición es muy detallado, así que aprovecha todas las características que ofrece: elige el trasfondo, las características físicas y escribe los ideales, rasgos, vínculos y defectos en tu hoja de personaje. También puedes usar suplementos que presenten nuevas opciones de personalización. También es divertido tirar una vez en la tabla de Baratijas (PHB p.160-161) para obtener una baratija y más tarde en la aventura encontrar una forma inusual de usarla.
+
+En un RPG en solitario, el jugador usualmente no verbaliza todas las líneas, crea voces para personajes o imita criaturas, pero los diálogos aún pueden ocurrir normalmente en tu mente. Algunas de las líneas más importantes del personaje pueden incluso anotarse como frases que definen a un personaje, una escena o una misión. Por ejemplo, tu PJ es un bárbaro que regresa a su campamento y se da cuenta de que su clan ha sido diezmado por orcos, entonces, en un arrebato de furia, jura venganza contra sus enemigos; sería muy interesante escribir este voto de venganza en la lista de objetivos y siempre mirarlo antes de tomar cualquier decisión con este personaje, para que tus acciones siempre estén alineadas con ese objetivo personal.
+
+Los eventos que se enfocan en "Trasfondo" (positivo y negativo) crean la posibilidad de explorar cada vez más los elementos del pasado de tus personajes en la historia actual. En este tipo de evento también tienes la oportunidad de crear nuevas historias, villanos del pasado, nuevos PNJs e incluso objetos mágicos en el trasfondo del PJ, como si estuviera teniendo un flashback o recordando algo que ha visto, escuchado o vivido en el pasado.
+
+Hay al menos cuatro tipos de eventos enfocados en PNJs: "Nuevo PNJ", "Acción PNJ", "PNJ Positivo" y "PNJ Negativo". Cada vez que haya acción por parte de los PNJs, trata de imaginar cuál sería la reacción de los PJs a estos eventos, e incluso si no están presentes, hazles saber al respecto de alguna manera. Esto seguramente aumentará tu disfrute experimentando las relaciones entre los varios personajes que crearás.
+
+## Explorar
+
+Ya sea que disfrutes viajando por la naturaleza salvaje, planeando grandes expediciones, buscando en cada habitación de una mazmorra, explorando cada piso de una torre y encontrando tesoros, pistas o objetos valiosos, aquí tienes algunos consejos para aumentar tu diversión en D&D en Solitario:
+
+Siempre establece el ambiente donde tiene lugar la escena actual: dentro de una taberna, en una cueva oscura, en un callejón de la ciudad, en una duna del desierto, en un bosque élfico, etc. Esto facilitará ambientar la escena y también generar encuentros.
+
+Cada vez que los PJs lleguen a un lugar, trata rápidamente de crear detalles del escenario que lo distingan de otros. Puedes hacer algunas Verificaciones del Destino o tirar una Idea en ello. Si enriqueces el ambiente donde están los PJs, seguramente podrán interactuar más fácilmente con el escenario y explorar este lugar será más divertido.
+
+Haz un mapa. Incluso si no sabes cómo dibujar. No tienes que crear un mapa del mundo, ni siquiera tienes que hacer un mapa completo. Solo esboza lugares interesantes para tu aventura, lugares de los que tu personaje ciertamente ha oído hablar. Por ejemplo, en una hoja de papel escribes los puntos cardinales (norte, sur, este y oeste) y en cada extremo del papel dibujas o escribes el nombre de cualquier punto de referencia al que tus personajes puedan llegar con un viaje de un día, como una montaña helada al norte, una granja abandonada al este, un bosque encantado al oeste, el castillo de un noble al sur, y un pueblo en el centro donde comienza tu aventura. Cuando tu personaje decida salir del pueblo, nada te impide, por ejemplo, crear un pantano en el camino a la granja, o tomar otra hoja y continuar creando nuevas regiones más allá de los límites iniciales.
+
+Trata de jugar un Hexcrawl con D&D en Solitario y encontrarás que este estilo va muy bien con el juego en solitario. La improvisación y la aleatoriedad se enriquecerán aún más con las mecánicas presentadas en esta guía. Puedes hacer una escena para cada hexágono, cada día de viaje: Elige un destino o la dirección a la que van los PJs, haz una verificación de Sabiduría (Supervivencia) para asegurarte de que no se perderán en el camino, elige las actividades de cada PJ durante el viaje (PHB p. 182-183), haz verificaciones de habilidad y tira un evento.
+
+Cuando los PJs encuentren, por ejemplo, un cofre en una mazmorra, un sarcófago en una ruina, un ataúd en una mansión, o una palanca en una biblioteca, tira 1d4 en la tabla de Encontrar un Tesoro e interpreta el resultado según el contexto de la historia.
+
+**Encontrar un tesoro - 1d4**
+| d4 | Resultado |
+|----|-----------|
+| 1 | **Trampa** (Algo que perjudica a los PJs. ¡Puede incluso ser un encuentro con un mímico! Establece una CD adecuada y haz una verificación para decidir si los PJs detectan esta amenaza o son tomados con la guardia baja.) |
+| 2 | **Vacío** (Nada de valor para los PJs, pero aún puede haber una pista o algo que apunte en una dirección donde seguir buscando) |
+| 3 | **Cerradura** (Algo que requerirá una habilidad específica para avanzar, desde una cerradura simple que puede abrirse hasta un hechizo antiguo o una transcripción indescifrable. Establece una CD adecuada antes de hacer una verificación) |
+| 4 | **Tesoro** (Algo que favorece a los PJs, como oro, el grimorio de un mago, una poción mágica o una pista para resolver un misterio) |
+
+Si quieres jugar un juego más fácil puedes usar 1d6, con 4, 5 y 6 como resultado de Tesoro.
+
+## Optimizar
+
+Si te gusta hacer que tus personajes suban de nivel, se hagan más fuertes y sean reconocidos por sus hazañas, si te gusta perfeccionar tus habilidades y encontrar objetos mágicos, aquí tienes los consejos para aumentar tu diversión en D&D en Solitario:
+
+Usa el sistema de progresión de nivel de experiencia de D&D. Esta es la forma más justa de asegurar que tus PJs tengan un desarrollo constante y acceso garantizado a nuevas habilidades y hechizos.
+
+Antes de tomar acción con un PJ, trata de recordar las habilidades de ese personaje, tal vez él o ella conoce un truco o un ritual que puede resolver la escena de una manera más interesante; También recuerda hacer uso de los objetos que llevan tus PJs, incluso si son objetos simples como una baraja de cartas o un instrumento musical y esto ayudará a evitar que sean olvidados o aburridos en la historia.
+
+Cada vez que ocurra un evento que se enfoque en "Objeto Mágico" (positivo o negativo), crea un evento que involucre algún objeto mágico. Recuerda que también hay objetos mágicos comunes como pociones o pergaminos. La Guía de Todo de Xanathar tiene excelentes consejos sobre cómo trabajar en la compra y venta de objetos mágicos en D&D e incluso formas de hacerlos. Solo ten cuidado de no llenar a tus personajes con objetos mágicos y terminar desequilibrando el combate. Si quieres tener un parámetro, ten en cuenta que la Guía del Dungeon Master de la 5ª Edición asume que en una campaña de nivel 1 a 20 habrá 45 tiradas en tablas de tesoros, resultando en aproximadamente 100 objetos mágicos; Considerando un grupo de 4 aventureros, esto representa 5 objetos por PJ cada 4 niveles.
+
+Algunos objetivos pueden no tener una recompensa cuantificable (como XP, oro y objetos). Estos objetivos sin recompensas directas usualmente involucran enfrentamientos sociales y verificaciones de habilidad, como persuadir a un rey de no ir a la guerra, persuadir a un mago para que lance un hechizo para ti, sacar sigilosamente a un aliado de una prisión, o escapar de la guarida de una bestia. Una forma de recompensar a los PJs en estas ocasiones es dar al PJ un punto de inspiración que jugó un papel importante en el éxito de una tarea importante o bajar un punto en CL para beneficiar al grupo en su conjunto. Otra forma de recompensar el éxito en encuentros que no sean de combate es distribuir XP, pero esto no es aconsejable ya que puede fácilmente desequilibrar tu aventura y no hay reglas para eso.
+
+## Instigar
+
+Si te gusta explorar conflictos morales y acciones que hacen reflexionar y preferirías tomar riesgos peligrosos que enfrentar el aburrimiento, aquí tienes los consejos para aumentar tu disfrute de D&D en Solitario:
+
+¡Tus PJs pueden ser el centro del universo! ¡Pero al mismo tiempo, puedes lanzar todo el mundo sobre ellos! Cuando estás jugando D&D en Solitario existe la posibilidad de que puedas hacer que la historia gire alrededor de uno o más PJs, lo cual es prácticamente imposible cuando estás jugando en un grupo, porque todos quieren ser parte de la historia también. Puedes hacer que la actitud de tus PJs afecte completamente el ambiente en el que viven y dondequiera que vayan. Con cada acción o decisión importante tomada, echa un vistazo a la lista de PNJs y trata de imaginar cómo cada uno de ellos reaccionaría a esa situación. Puede ser que un rey bastardo pida tu cabeza después de que menciones el nombre del heredero destronado en alguna taberna...
+
+Cada vez que ocurra un evento enfocado en "Instigar", uno de tus PJs será tentado. No tengas miedo de poner a tus PJs en situaciones complicadas, esto traerá un poco de realismo a tu historia y ciertamente aumentará tu disfrute.
+
+Una historia que hace reflexionar requiere personajes que hagan reflexionar. Ve más sobre crear personajes complejos en el último consejo de la sección Resolver Problemas.
+
+## Narración
+
+Si te gusta la narración y dejar que tu imaginación vuele, aquí tienes los consejos para mejorar tu diversión en D&D en Solitario:
+
+Tú, como narrador, tienes control total sobre la historia y puedes llevarla donde quieras, siempre condimentando las cosas con un poco de suerte lanzando a tus PJs contra los dados. Trata de mantener tu equilibrio, tiempo narrando, creando el mundo y desarrollando acciones y planes de PNJs, tiempo pensando como PJs y tratando de resolver las cosas desde su perspectiva. De esta manera la aventura será cada vez más inmersiva y divertida.
+
+Asegúrate de que los encuentros tengan significado en la historia. Los encuentros aleatorios son divertidos, pero una buena historia necesita consistencia e hitos, así que transforma los encuentros aleatorios en oportunidades para avanzar la historia y tomar caminos diferentes a los planeados. Por ejemplo, tus personajes están corriendo hacia un barco que está a punto de abordar un villano y en el camino hay un encuentro aleatorio con un PNJ. En lugar de ignorarlo y correr pasándolo, puede ser que este PNJ se interponga en su camino para advertirles que el barco es solo una distracción y el verdadero villano está huyendo de la ciudad por las alcantarillas!
+
+Siempre trata de pensar en lo que tus personajes son capaces de hacer, sus habilidades, los trucos aprendidos, los hechizos que conocen y los objetos que llevan. Esta información puede ser relevante en la toma de decisiones y puede cambiar el curso de la historia.
+
+Trata de hacer un registro de tu historia. Lista las escenas, anota el Nivel de Caos, describe brevemente lo que está pasando, e indica si ha habido algún evento. De esta manera puedes recordar todo lo que pasó en tu historia y cómo los PJs llegaron a donde están y hacer más fácil para ti continuar tu aventura cada vez que juegues de nuevo sin importar cuánto tiempo después.
+
+Una forma interesante de organizar encuentros es pensar en: cuál es el propósito de los PJs, cuál es el propósito de los PNJs, cuáles son las posibles acciones, cuáles son las consecuencias y en qué escenario y contexto tiene lugar este encuentro.
+
+## Resolver problemas
+
+Si te gusta investigar los motivos de un PNJ sospechoso, desentrañar las maquinaciones de un villano, y hacer planes para salvar a un aliado, puedes aumentar tu diversión en D&D en Solitario con los siguientes consejos:
+
+Crea encuentros que presenten problemas en lugar de soluciones. Por ejemplo, un granjero va a tus PJs pidiendo ayuda para averiguar qué o quién atacó su granja la noche pasada. En lugar de que el granjero aparezca diciendo que fue atacado por goblins y pagará una recompensa a quienes los maten, este granjero presentó un problema sin dar muchas pistas o una posible solución y dependerá de los PJs investigar y encontrar la mejor manera de resolver el problema. Lo más divertido es cuando no tienes idea de lo que realmente pasó y solo haces Verificaciones del Destino y ves a dónde vas, resolviendo todo sobre la marcha. A veces los PJs descubren que ese pequeño problema es solo la punta del iceberg...
+
+Si pasaste algún tiempo elaborando un plan para los PJs y viste que este plan es realmente inteligente, haz las Verificaciones del Destino bajando las probabilidades de que algo salga mal para que estés recompensando a los personajes con un poco de suerte. Otra forma de recompensar buenas estrategias es bajar el Nivel de Caos por uno o dos puntos antes de hacer la Tirada de Caos, aumentando así las probabilidades de que la siguiente escena sea como se planeó.
+
+También puedes dar a tus PJs puntos de inspiración por elaborar un buen plan. Los puntos de inspiración en D&D en Solitario no son más que una segunda oportunidad para tirar los dados cuando un PJ falla.
+
+Trata de crear PNJs con motivaciones complejas, esto hará que tengan actitudes inusuales y generen tensiones entre los PJs. Por ejemplo, una mesera puede ocultar envidia hacia su jefe y hacer todo lo posible para bajar la moral del tabernero susurrando mentiras a los PJs en su contra. Otro ejemplo es una sacerdotisa que, aunque generosa y dedicada, enfrenta una crisis de fe en silencio y aún duda de la existencia del dios que sigue. Te recomiendo que uses un buen generador de PNJs como UNE - Universal NPC Emulator con el objetivo de crear personajes más detallados.
+
+## Combate
+
+Si te gusta luchar, aquí tienes los consejos para aumentar tu disfrute de D&D en Solitario:
+
+Cuando ocurra un evento negativo en cualquier escena, puedes simplemente establecer que habrá combate aleatorio sin tirar en la tabla de Enfoque de Evento Negativo. Esto seguramente traerá algo de acción a tu aventura.
+
+Usa y abusa de los eventos enfocados en Combate para crear combate aleatorio e inesperado. El combate planeado es esencial contra los grandes villanos de tu historia, pero también es muy divertido crear encuentros aleatorios y tomar a tus PJs con la guardia baja. Esto pondrá a prueba sus habilidades y también les hará ganar XP para que estén mejor preparados para cuando ocurran las grandes peleas. Para la generación de encuentros aleatorios puedes usar las tablas en el libro de Xanathar (XGTE p.92-110) o puedes crear tu propia tabla de criaturas según el contexto de tu aventura y el nivel de tu grupo de PJs.
+
+Si tiras un evento y estableces que será un combate, pero tus PJs están en una habitación que ya habían verificado y estaba vacía, puede ser que alguna criatura estuviera invisible o camuflada y no fue detectada o que tus PJs estaban siendo seguidos y ni siquiera se dieron cuenta.
+
+Cuando tus PJs se encuentren con un oponente muy superior en un combate aleatorio, no te preocupes y recuerda que el objetivo de tu enemigo no siempre será eliminarlos; tal vez habrá una recompensa mayor si tus PJs son capturados vivos...
+
+# ANEXO A – TABLAS DE D&D EN SOLITARIO
+
+## CHEQUEO DE DESTINO
+
+### PROBABILIDADES
+| PROBABILIDADES | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|---|---|---|---|---|---|---|---|---|---|
+| Imposible | -10 | -10 | -10 | -10 | -10 | -8 | -7 | -5 | +0 |
+| Casi imposible | -10 | -9 | -9 | -8 | -8 | -5 | -3 | +0 | +5 |
+| Muy poco probable | -9 | -9 | -8 | -7 | -5 | -1 | +0 | +3 | +7 |
+| Poco probable | -9 | -8 | -7 | -6 | -3 | +0 | +1 | +5 | +8 |
+| 50/50 | -8 | -7 | -5 | -3 | +0 | +3 | +5 | +7 | +9 |
+| Probable | -6 | -5 | -1 | +0 | +3 | +6 | +7 | +8 | +9 |
+| Muy probable | -5 | -3 | +0 | +1 | +5 | +7 | +8 | +9 | +10 |
+| Esperado | -1 | +0 | +3 | +5 | +8 | +8 | +9 | +9 | +10 |
+| Seguro | +0 | +1 | +5 | +6 | +10 | +10 | +10 | +10 | +10 |
+
+### NIVEL DE CAOS
+| NIVEL DE CAOS | DADO DE CAOS |
+|---|---|
+| 1 | d4 |
+| 2 | d4 |
+| 3 | d6 |
+| 4 | d6 |
+| 5 | d8 |
+| 6 | d8 |
+| 7 | d10 |
+| 8 | d12 |
+| 9 | d20 |
+
+### TIRADA DE CAOS (1d4, 1d6, 1d8, 1d10 o 1d20 según NC)
+| Resultado | Efecto | Descripción |
+|---|---|---|
+| 1, 2 o 3 | Nada | La escena sucede como estaba planeada |
+| 4 o 13 | Transmutación | Pequeño cambio en la escena |
+| 5 o 14 | Abjuración | Quitar algo de la escena |
+| 6 o 15 | Conjuración | Crear algo en la escena |
+| 7 o 16 | Nigromancia | Evento negativo |
+| 8 o 17 | Evocación | Evento neutral/positivo |
+| 9 o 19 | Adivinación - | Evento negativo antes de la escena planeada |
+| 10 o 20 | Adivinación + | Evento neutral/positivo antes de la escena planeada |
+| 11 o 18 | Ilusión | Algo no era lo que se imaginaba o no será como se esperaba |
+| 12 | Encantamiento | Cambio en el comportamiento de PNJ o sentimiento de PJ |
+
+## TABLAS DE ENFOQUE DE EVENTOS
+
+### 1d20 Enfoque de Evento Negativo
+| d20 | Enfoque | Descripción |
+|---|---|---|
+| 1-7 | Combate | Haz un encuentro de combate. Puede ser balanceado o no balanceado, o incluso un encuentro aleatorio. |
+| 8-10 | Objetivo Negativo | Elige o determina aleatoriamente un objetivo, tira una Idea e interpreta. |
+| 11-14 | PNJ Negativo | Elige o determina aleatoriamente un PNJ, tira una Idea e interpreta. |
+| 15-17 | PJ Negativo | Elige o determina aleatoriamente un PJ, tira una Idea e interpreta. |
+| 18 | Instigar | Elige o determina aleatoriamente un PJ, analiza vínculos, defectos y alineamiento, tira una idea (opcional) e interpreta. Tirada de salvación SAB, INT o CAR CD 20 para no ceder. |
+| 19 | Trasfondo Negativo | Elige o determina aleatoriamente un PNJ, analiza su trasfondo, tira una Idea e interpreta. |
+| 20 | Objeto Mágico Negativo | Inventa, elige o determina aleatoriamente un objeto mágico, tira una Idea e interpreta. |
+
+### 1d20 Enfoque de Evento Neutral/Positivo
+| d20 | Enfoque | Descripción |
+|---|---|---|
+| 1-2 | Evento Remoto | Tira una Idea e interpreta. |
+| 3-4 | Evento Ambiguo | Tira una Idea e interpreta. |
+| 5-6 | Nuevo PNJ | Introduce un nuevo PNJ |
+| 7-14 | Acción de PNJ | Elige o determina aleatoriamente un PNJ, tira una Idea e interpreta. |
+| 15 | PNJ Positivo | Elige o determina aleatoriamente un PNJ, tira una Idea e interpreta. |
+| 16 | PJ Positivo | Elige o determina aleatoriamente un PJ, tira una Idea e interpreta. |
+| 17 | Trasfondo Positivo | Elige o determina aleatoriamente un PNJ, analiza su trasfondo, tira una Idea e interpreta. |
+| 18 | Objeto Mágico Positivo | Inventa, elige o determina aleatoriamente un objeto mágico, tira una Idea e interpreta. |
+| 19-20 | Objetivo Positivo | Elige o determina aleatoriamente un objetivo, tira una Idea e interpreta. |
+
+## JUGANDO EN ESCENAS
+1. Imagina una idea inicial para la escena
+2. Determina el Nivel de Caos de la escena
+3. Haz una tirada de Caos
+4. Juega la escena
+5. Cuando termine la acción principal, la Escena termina
+6. Actualiza el Nivel de Caos y todas las listas
+
+## ENCONTRANDO UN TESORO - 1d4
+| d4 | Resultado | Descripción |
+|---|---|---|
+| 1 | Trampa | Algo que perjudica a los PJs. ¡Puede ser incluso un encuentro con un mímico! Establece una CD adecuada y haz una tirada para decidir si los PJs detectan esta amenaza o son tomados por sorpresa. |
+| 2 | Vacío | Nada de valor para los PJs, pero puede haber aún una pista o algo que apunte en una dirección donde seguir buscando |
+| 3 | Cerradura | Algo que requerirá una habilidad específica para avanzar, desde una cerradura simple que se puede forzar hasta un hechizo antiguo o un texto indescifrable. Establece una CD adecuada antes de hacer una tirada |
+| 4 | Tesoro | Algo que favorece a los PJs, como oro, el grimorio de un mago, una poción mágica o una pista para resolver un misterio |
+
+## CHEQUEO DE DESTINO
+1. Haz una pregunta de Sí/No.
+2. Elige el Nivel de Caos y las Probabilidades.
+3. Tira 1d20 y añade el modificador según la tabla. Ve el resultado:
+   - Total ≥ 11 **Sí**
+   - Total <11 **No**
+   - Total = 11 **Sí débil**
+   - Total = 10 **No débil**
+   - D20 Natural = 20 **Sí crítico**
+   - D20 Natural = 1 **No crítico**
+   - D20 Natural = 7 **Evento neutral/positivo**
+   - D20 Natural = 13 **Evento negativo**
+
+## CLASES DE DIFICULTAD TÍPICAS
+| CD | Dificultad |
+|---|---|
+| 5 | Muy fácil |
+| 10 | Fácil |
+| 15 | Medio |
+| 20 | Difícil |
+| 25 | Muy difícil |
+| 30 | Casi imposible |
+
+---
+
+# ANEXO B – NUBES DE PALABRAS DE IDEAS
+
+Tira 1d8, encuentra la nube según el resultado, obsérvala por un momento y elige una palabra aleatoria. (Ver tabla alternativa en Anexo C)
+
+**1** | **2**
+**3** | **4**
+**5** | **6**
+**8** | **7**
+
+---
+
+# ANEXO C – TABLAS ALTERNATIVAS PARA NUBES DE PALABRAS
+
+Las nubes de palabras son una herramienta increíble de inspiración, ya que mientras nuestros ojos recorren las palabras de la nube, es como si estas chisporrotearan en nuestras mentes, obligándonos a pensar en sus significados para la historia actual. Sin embargo, si prefieres ser más tradicional, puedes simplemente tirar en la tabla de abajo.
+
+## Tabla C.1: Tabla de Ideas. Tira 1d8 y 1d20.
+
+| d20 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Juego | Naturaleza | Factores externos | Escritura | Avaricia | Carisma | Inocente | Enemigos |
+| 2 | Crimen | Estrellas | Negocios | Inteligencia | Poder | Amistad | Esperanza | Peligro |
+| 3 | Mala suerte | Mundo | Representante | Militar | Codicia | Bien | Gratitud | Prisión |
+| 4 | Ilusión | Exterior | Burocracia | Razón | Envidia | Cura | Guerra | Disturbio |
+| 5 | Depravación | Libertad | Destreza | Nuevas ideas | Bebida | Yo | Fracaso | Emboscada |
+| 6 | Juego de manos | Físico | Orden | Proyecto | Inversión | Paz | Oscuridad | Magia |
+| 7 | Mentiras | Invierno | Consejo | Tácticas | Opulencia | Luz | Heridas | Misterio |
+| 8 | Locura | Aleatoriedad | Justicia | Tecnología | Deseos | Aliados | Enfermedad | Interior |
+| 9 | Pérdida | Arte | Noticias | Evidencias | Fama | Atención | Tiranía | Equilibrio |
+| 10 | Sorteo | Agricultura | Armas | Belleza | Placeres | Sacrificio | Veneno | Secreto |
+| 11 | Comercio | Elementos | Información | Beneficios | Riquezas | Coraje | Ira | Milagro |
+| 12 | Intrigas | Clima | Pruebas | Competencia | Expectativas | Emociones | Sufrimiento | Fe |
+| 13 | Disputa | Camino | Planes | Victoria | Canción | Rumores | Muerte | Templo |
+| 14 | Estancamiento | Caza | Intelectual | Poesía | Alegría | Hogar | Adversidades | Religión |
+| 15 | Engaño | Horizonte | Situación | Extravagancia | Desgracia | Carga | Oposición | Portal |
+| 16 | Gremio | Salvaje | Realidad | Público | Bienes | Mensajes | Dolor | Pacto |
+| 17 | Animales | Tormenta | Liderazgo | Suerte | Mundano | Constitución | Miedos | Espiritual |
+| 18 | Vehículo | Mar | Conocimiento | Éxito | Logros | Protección | Tensión | Sabiduría |
+| 19 | Comida | Viaje | Trama | Sueños | Celoso | Vida | Mal | Energía |
+| 20 | Ambiente | Asuntos legales | Invención | Orgullo | Posesiones | Amor | Fuerza | Secta |

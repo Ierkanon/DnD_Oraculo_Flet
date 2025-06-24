@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"taberna",
+				"taberna_str"
+			],
+			[
+				"generar_",
+				"generar_taberna"
+			],
+			[
+				"genr",
+				"generator_instance"
+			],
+			[
+				"datos",
+				"datos_taberna"
+			],
+			[
+				"npc",
+				"npc_medio"
+			],
+			[
+				"npc_st",
+				"npc_str"
+			],
+			[
+				"generar",
+				"generar_npc"
+			],
+			[
+				"pe",
+				"pesos_medio"
+			],
+			[
+				"pesos",
+				"pesos_novato"
+			],
+			[
+				"pro",
+				"profesion"
+			],
+			[
+				"pesos_raz",
+				"pesos_razanomundana"
+			],
+			[
+				"ra",
+				"razanomundana"
+			],
+			[
+				"Enc",
+				"Encuentro"
+			],
+			[
+				"clave",
+				"clave_elegida"
+			],
+			[
+				"genera",
+				"generator_instance"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"boton",
+				"boton_encuentroairelibre"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"ch",
+				"chbox_total"
+			],
+			[
+				"vale",
+				"value"
+			],
+			[
+				"txt",
+				"txt_bonus"
+			],
+			[
+				"tx",
+				"txt_dicenumber"
+			],
+			[
+				"txt_",
+				"txt_bonus"
+			],
+			[
+				"tot",
+				"total_bonus"
+			],
+			[
+				"che",
+				"chbox_media"
+			],
+			[
+				"t",
+				"txt_salida"
+			],
+			[
+				"chbox",
+				"chbox_suma"
+			],
+			[
+				"ora",
+				"oraculoprediccion"
+			],
+			[
+				"My",
+				"MyOraculoButton"
+			],
+			[
+				"orac",
+				"oraculobutton"
+			],
+			[
+				"sp",
+				"spinbox_bonus"
+			],
+			[
+				"spin",
+				"spinbox_dados"
+			],
+			[
+				"bot",
+				"boton_reset"
+			],
+			[
+				"chec",
+				"checked_options"
+			],
+			[
+				"M",
+				"Máximo"
+			],
+			[
+				"var",
+				"varmin"
+			],
+			[
+				"varm",
+				"varmedia"
+			],
+			[
+				"tex",
+				"textwindow"
+			],
+			[
+				"radio",
+				"radiobuttons_frame"
+			],
+			[
+				"colum",
+				"columnspan"
+			],
+			[
+				"MySp",
+				"MySpinBoxFrame"
+			],
+			[
+				"ctk",
+				"CTkLabel"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"flo",
+				"FloatSpinbox"
+			],
+			[
+				"vari",
+				"variable"
+			],
+			[
+				"check",
+				"checkbox_frame"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"grid",
+				"grid_columnconfigure"
+			],
+			[
+				"In",
+				"IntVar"
+			],
+			[
+				"variable",
+				"variables"
+			],
+			[
+				"text",
+				"textwindow"
+			],
+			[
+				"te",
+				"text_num_dados"
+			],
+			[
+				"boto",
+				"botonmas_bonus"
+			],
+			[
+				"butto",
+				"button_plus"
+			],
+			[
+				"CTk",
+				"CTkTextbox"
+			],
+			[
+				"butt",
+				"button_plus"
+			],
+			[
+				"b",
+				"botonmas"
+			],
+			[
+				"button_",
+				"button_minus"
+			],
+			[
+				"radi",
+				"radio_var"
+			],
+			[
+				"spint",
+				"spinbutton_var"
+			],
+			[
+				"spinbu",
+				"spinbutton_var"
+			],
+			[
+				"pa",
+				"padx"
+			],
+			[
+				"__ini",
+				"__ini__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 357.0,
+		"history":
+		[
+			"cls",
+			"pip3 install flet",
+			"pip install flet",
+			"pip install CTkSpinbox"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/DnD_flet.sublime-project",
+		"/G/Mi unidad/DnD Oraculo/DnD_flet.py",
+		"/G/Mi unidad/DnD Oraculo/DnD_flet.sublime-project",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/modules/data_management.py",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/data/datos_npc.json",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/data/datos_taberna.json",
+		"/G/Mi unidad/DnD Oraculo/modules/caos.py",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/modules/generator.py",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/DnD_flet.py",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/Python Imports Sorter/Default.sublime-settings",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/C/Users/Pedro/Documents/Python/DnD Oraculo/data/datos_acciones.json",
+		"/C/Users/Pedro/Documents/Python/data.py",
+		"/C/Users/Pedro/Documents/Python/DnD básico.py",
+		"/C/Users/Pedro/Documents/Python/DnD_flet.py",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/User/GitHub.sublime-settings",
+		"/C/Users/Pedro/Documents/Python/Dndcustom.py",
+		"/C/Users/Pedro/Documents/Python/Dndcustomtkinter.py",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/User/Run_python.sublime-build",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Pedro/AppData/Roaming/Sublime Text/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "DnD_flet.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Mi unidad\\DnD Oraculo\\DnD_flet.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
