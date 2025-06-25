@@ -43,14 +43,12 @@ def main (page: ft.Page):
     def radiogroup_selection(e,dice):
         dado = int(dice)
         if dado == 20:
-            print(f'valor: {dado}')
             radioavendisaven.disabled=False
             if int(radioavendisaven.value) == 0:
                 txt_dicenumber.disabled=False
             else:
                 txt_dicenumber.disabled=True
         else:
-            print(f'valor else:{dado}')
             radioavendisaven.disabled=True
             txt_dicenumber.disabled=False
         page.update()
@@ -220,6 +218,7 @@ def main (page: ft.Page):
         chbox_suma.value=False
         chbox_media.value=False
         chbox_total.value=True
+        radioavendisaven.disabled=True
         page.update()
 
     def generador_ponderado(e, dictio):
