@@ -3,6 +3,7 @@ from modules.data_management import load_data
 import modules.generator as gen
 import random
 import os
+import json
 #import modules.caos as cao
 
 from statistics import mean
@@ -20,6 +21,112 @@ def main (page: ft.Page):
 
     contenido=[] #Empty list where all lines of the textfield will be included
 
+    #Update textfield and autoscroll function
+    def add_text(data):
+        contenido.append(data)
+        txt_salida.value = '\n'.join(contenido)
+        page.update()
+
+    def add_texto(e,data):
+        contenido.append(data)
+        txt_salida.value = '\n'.join(contenido)
+        txt_entrada.value = ' '
+        page.update()
+        
+    def aplicar (e):
+        global total
+        ndados = int(txt_dicenumber.value)
+        dado = int(radiodados.value)
+        bonus = int(txt_bonus.value)
+        salida = f'Tirada ({ndados}d{dado}): {total}'
+        add_text(salida)
+        if chbox_media.value:
+            media = str(round(mean(total),1))
+            media = f'Media: {media}'
+            add_text(media)
+            #txt_salida.value = txt_salida.value + f'Media: {media:.1f}\n'
+        if chbox_suma.value:
+            suma = str(sum(total))
+            suma = f'Suma: {suma}'
+            add_text(suma)
+            #txt_salida.value = txt_salida.value + f'Suma: {suma}\n'
+        if chbox_max.value:
+            maximo = str(max(total))
+            maximo = f'Valor máximo: {maximo}'
+            add_text(maximo)
+            #txt_salida.value = txt_salida.value + f'Valor máximo: {maximo}\n'
+        if chbox_min.value:
+            minimo = str(min(total))
+            minimo = f'Valor mínimo: {minimo}'
+            add_text(minimo)
+            #txt_salida.value = txt_salida.value + f'Valor mínimo: {minimo}\n'
+        if chbox_total.value:
+            total_bonus = str(sum(total) + bonus)
+            total_bonus = f'Bonus: {bonus}\nTotal: {total_bonus}'
+            add_text(total_bonus)
+            #txt_salida.value =  txt_salida.value + f'Total: {total_bonus}\n'
+        salto='\n'
+        add_text(salto)
+        '''if chbox_media.value:
+            media = mean(total)
+            txt_salida.value = f'Media: {media:.1f}\n' + txt_salida.value
+        if chbox_suma.value:
+            suma = str(sum(total))
+            txt_salida.value = f'Suma: {suma}\n' + txt_salida.value
+        if chbox_max.value:
+            maximo = str(max(total))
+            txt_salida.value = f'Valor máximo: {maximo}\n' + txt_salida.value
+        if chbox_min.value:
+            minimo = str(min(total))
+            txt_salida.value = f'Valor mínimo: {minimo}\n' + txt_salida.value
+        if chbox_total.value:
+            total_bonus = str(sum(total) + int(txt_bonus.value))
+            txt_salida.value = f'Total: {total_bonus}\n' + txt_salida.value'''
+        page.update()
+
+    #Change the label of the txt_entrada TextField
+    def change_scene(e,data):
+        escena = f'{data}'
+        txt_entrada.label = escena
+        escena = '*'+escena
+        add_text(escena)
+        txt_entrada.value=' '
+        txt_entrada.update()
+
+    def generador (e, lista):
+        generator_instance = gen.Generator([],[],[],[],[],[])
+        valor = generator_instance.elegir_lista(lista)
+        text = f'{valor}\n'
+        add_text(text)
+
+    def generador_ponderado(e, dictio):
+        generator_instance = gen.Generator([],[],[],[],[],[])
+        valor = generator_instance.elegir_clave_ponderada(dictio)
+        text = f'Encuentro: {valor}\n'
+        add_text(text)
+        page.update()
+
+    def generar_npc(e):
+        generator_instance = gen.Generator([],[],[],[],[],[])
+        valor = generator_instance.generar_npc()
+        text = f'{valor}\n'
+        add_text(text)
+        page.update()
+
+    def generar_taberna(e):
+        generator_instance = gen.Generator([],[],[],[],[],[])
+        valor = generator_instance.taberna()
+        text = f'{valor}\n'
+        add_text(text)
+        page.update()
+
+    def list_load(e):
+        pass
+
+    def list_save(e):
+        data_to_save = []
+        pass 
+
     #Minus function
     def minus_click(e, data):
         #data is a variable to control which text_field is selected
@@ -29,6 +136,33 @@ def main (page: ft.Page):
                 txt_dicenumber.value = str(1)
         elif data == 1:
             txt_bonus.value = str(int(txt_bonus.value)-1)
+        page.update()
+
+    #Function which preditcs what happen in next acction
+    def oraculo(e):
+        tirada = random.randint(1, 20)
+        match tirada:
+            case 1:
+                text = f'El oráculo dice ({tirada}): Fracaso absoluto\n'
+                add_text(text)
+            case 2 | 3 | 4 | 5:
+                text = f'El oráculo dice ({tirada}): No\n'
+                add_text(text)
+            case 6 | 7 | 8 | 9:
+                text = f'El oráculo dice ({tirada}): No, pero... algo pasa\n'
+                add_text(text)
+            case 10:
+                text = f'El oráculo dice ({tirada}): Estoy indeciso\n'
+                add_text(text)
+            case 11 | 12 | 13 | 14 | 15:
+                text = f'El oráculo dice ({tirada}): Sí, pero... algo pasa\n'
+                add_text(text)
+            case 16 | 17 | 18 | 19:
+                text = f'El oráculo dice ({tirada}): Sí\n'
+                add_text(text)
+            case 20:
+                text = f'El oráculo dice ({tirada}): Éxito absoluto\n'
+                add_text(text)
         page.update()
 
     def plus_click (e, data):
@@ -53,28 +187,17 @@ def main (page: ft.Page):
             txt_dicenumber.disabled=False
         page.update()
 
-
-    #Update textfield and autoscroll function
-    def add_text(data):
-        contenido.append(data)
-        txt_salida.value = '\n'.join(contenido)
+    def reset(e):
+        radiodados.value=4
+        txt_dicenumber.value=str(1)
+        txt_bonus.value=str(0)
+        chbox_max.value=False
+        chbox_min.value=False
+        chbox_suma.value=False
+        chbox_media.value=False
+        chbox_total.value=True
+        radioavendisaven.disabled=True
         page.update()
-
-    def add_texto(e,data):
-        contenido.append(data)
-        txt_salida.value = '\n'.join(contenido)
-        txt_entrada.value = ' '
-        page.update()
-
-    #Change the label of the txt_entrada TextField
-    def change_scene(e,data):
-        escena = f'{data}'
-        txt_entrada.label = escena
-        escena = '*'+escena
-        add_text(escena)
-        txt_entrada.value=' '
-        txt_entrada.update()
-        
 
     def rolldice (e):
         ndados = int(txt_dicenumber.value)
@@ -130,124 +253,6 @@ def main (page: ft.Page):
         add_text(salto)
         page.update()
 
-    def aplicar (e):
-        global total
-        ndados = int(txt_dicenumber.value)
-        dado = int(radiodados.value)
-        bonus = int(txt_bonus.value)
-        salida = f'Tirada ({ndados}d{dado}): {total}'
-        add_text(salida)
-        if chbox_media.value:
-            media = str(round(mean(total),1))
-            media = f'Media: {media}'
-            add_text(media)
-            #txt_salida.value = txt_salida.value + f'Media: {media:.1f}\n'
-        if chbox_suma.value:
-            suma = str(sum(total))
-            suma = f'Suma: {suma}'
-            add_text(suma)
-            #txt_salida.value = txt_salida.value + f'Suma: {suma}\n'
-        if chbox_max.value:
-            maximo = str(max(total))
-            maximo = f'Valor máximo: {maximo}'
-            add_text(maximo)
-            #txt_salida.value = txt_salida.value + f'Valor máximo: {maximo}\n'
-        if chbox_min.value:
-            minimo = str(min(total))
-            minimo = f'Valor mínimo: {minimo}'
-            add_text(minimo)
-            #txt_salida.value = txt_salida.value + f'Valor mínimo: {minimo}\n'
-        if chbox_total.value:
-            total_bonus = str(sum(total) + bonus)
-            total_bonus = f'Bonus: {bonus}\nTotal: {total_bonus}'
-            add_text(total_bonus)
-            #txt_salida.value =  txt_salida.value + f'Total: {total_bonus}\n'
-        salto='\n'
-        add_text(salto)
-        '''if chbox_media.value:
-            media = mean(total)
-            txt_salida.value = f'Media: {media:.1f}\n' + txt_salida.value
-        if chbox_suma.value:
-            suma = str(sum(total))
-            txt_salida.value = f'Suma: {suma}\n' + txt_salida.value
-        if chbox_max.value:
-            maximo = str(max(total))
-            txt_salida.value = f'Valor máximo: {maximo}\n' + txt_salida.value
-        if chbox_min.value:
-            minimo = str(min(total))
-            txt_salida.value = f'Valor mínimo: {minimo}\n' + txt_salida.value
-        if chbox_total.value:
-            total_bonus = str(sum(total) + int(txt_bonus.value))
-            txt_salida.value = f'Total: {total_bonus}\n' + txt_salida.value'''
-        page.update()
-
-
-    #Function which preditcs what happen in next acction
-    def oraculo(e):
-        tirada = random.randint(1, 20)
-        match tirada:
-            case 1:
-                text = f'El oráculo dice ({tirada}): Fracaso absoluto\n'
-                add_text(text)
-            case 2 | 3 | 4 | 5:
-                text = f'El oráculo dice ({tirada}): No\n'
-                add_text(text)
-            case 6 | 7 | 8 | 9:
-                text = f'El oráculo dice ({tirada}): No, pero... algo pasa\n'
-                add_text(text)
-            case 10:
-                text = f'El oráculo dice ({tirada}): Estoy indeciso\n'
-                add_text(text)
-            case 11 | 12 | 13 | 14 | 15:
-                text = f'El oráculo dice ({tirada}): Sí, pero... algo pasa\n'
-                add_text(text)
-            case 16 | 17 | 18 | 19:
-                text = f'El oráculo dice ({tirada}): Sí\n'
-                add_text(text)
-            case 20:
-                text = f'El oráculo dice ({tirada}): Éxito absoluto\n'
-                add_text(text)
-        page.update()
-
-    def reset(e):
-        radiodados.value=4
-        txt_dicenumber.value=str(1)
-        txt_bonus.value=str(0)
-        chbox_max.value=False
-        chbox_min.value=False
-        chbox_suma.value=False
-        chbox_media.value=False
-        chbox_total.value=True
-        radioavendisaven.disabled=True
-        page.update()
-
-    def generador_ponderado(e, dictio):
-        generator_instance = gen.Generator([],[],[],[],[],[])
-        valor = generator_instance.elegir_clave_ponderada(dictio)
-        text = f'Encuentro: {valor}\n'
-        add_text(text)
-        page.update()
-
-    def generador (e, lista):
-        generator_instance = gen.Generator([],[],[],[],[],[])
-        valor = generator_instance.elegir_lista(lista)
-        text = f'{valor}\n'
-        add_text(text)
-
-    def generar_npc(e):
-        generator_instance = gen.Generator([],[],[],[],[],[])
-        valor = generator_instance.generar_npc()
-        text = f'{valor}\n'
-        add_text(text)
-        page.update()
-
-    def generar_taberna(e):
-        generator_instance = gen.Generator([],[],[],[],[],[])
-        valor = generator_instance.taberna()
-        text = f'{valor}\n'
-        add_text(text)
-        page.update()
-
     radiodados= ft.RadioGroup(
         content=ft.Row(
             [
@@ -271,13 +276,19 @@ def main (page: ft.Page):
 
     boton_roll = ft.FilledButton (text='Lanzar', on_click=rolldice)
 
+    #Buttons for save and load an archive with all data in listview
+    boton_save = ft.FilledButton (text='Guardar', on_click=list_save)
+    boton_load = ft.FilledButton (text='Cargar', on_click=list_load)
+
     page.add(
         ft.Row([
         radiodados,
         ft.IconButton(ft.icons.REMOVE, on_click = lambda e: minus_click(e,0)), 
         txt_dicenumber,
         ft.IconButton(ft.icons.ADD, on_click = lambda e: plus_click(e,0)),
-        boton_roll
+        boton_roll,
+        boton_save,
+        boton_load
         ],
         alignment=ft.MainAxisAlignment.START
         )
