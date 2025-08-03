@@ -166,7 +166,7 @@ chequeo_destino = {
             evento = self.obtener_evento_negativo()'''
 
 class Caos:
-    def __init__(self, nivel_caos):
+    def __init__(self, nivel_caos, probabilidad):
         """
         Inicializa la clase Caos con un nivel específico.
         
@@ -177,9 +177,11 @@ class Caos:
             raise ValueError("El nivel de caos debe ser un entero entre 1 y 9")
             
         self.nivel_caos = nivel_caos
+        self.probabilidad = probabilidad
         self.dado_de_caos = self._obtener_dado_caos()
         self.tirada = 0
         self.ultima_tirada = None
+        self.bonificador = self.probabilidad_caos(dado_de_caos, probabilidad)
 
     def _obtener_dado_caos(self):
         """Obtiene el tipo de dado correspondiente al nivel de caos"""
@@ -201,6 +203,17 @@ class Caos:
         self.tirada = randint(1, dado)
         self.ultima_tirada = {"dado": dado, "resultado": self.tirada}
         return self.tirada
+
+    def probabilidad_caos (self, dado_de_caos, probabilidad):
+        """
+        Obtiene según la probabilidad y el dado de caos un bonificador para las tiradas de dificultad
+         de los eventos
+
+        Returns:
+            int: bonificador a la dificultad de los eventos
+        """
+        self.bonificador = probabilidades_caos[self.probabilidad][self.dado_de_caos]
+        return self.bonificador
 
     def obtener_efecto_caos(self):
         """
@@ -309,7 +322,7 @@ class Caos:
 
 
 # Ejemplo de uso
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     # Crear instancia de caos
     caos = Caos(6)
     print(f"Sistema de caos iniciado: {caos}")
@@ -330,4 +343,4 @@ if __name__ == "__main__":
     caos.cambiar_nivel_caos(9)
     print(f"Nuevo nivel: {caos.obtener_info_nivel()}")
     efecto2 = caos.obtener_efecto_caos()
-    print(f"Nuevo efecto: {efecto2}")
+    print(f"Nuevo efecto: {efecto2}")'''

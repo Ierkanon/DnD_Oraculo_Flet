@@ -1,10 +1,10 @@
 import flet as ft
 from modules.data_management import load_data
+import modules.caos as caos
 import modules.generator as gen
 import random
 import os
 import json
-#import modules.caos as cao
 
 from statistics import mean
 
@@ -279,8 +279,8 @@ def main (page: ft.Page):
     boton_save = ft.FilledButton (text='Guardar', on_click=list_save)
     boton_load = ft.FilledButton (text='Cargar', on_click=list_load)
 
-    page.add(
-        ft.Row([
+    #page.add(
+    row1 = ft.Row([
         radiodados,
         ft.IconButton(ft.icons.REMOVE, on_click = lambda e: minus_click(e,0)), 
         txt_dicenumber,
@@ -291,7 +291,7 @@ def main (page: ft.Page):
         ],
         alignment=ft.MainAxisAlignment.START
         )
-        )
+        #)
     
     #Checkbox for operation with de dice rolled
     chbox_suma = ft.Checkbox (label='Suma', value=False)
@@ -309,8 +309,8 @@ def main (page: ft.Page):
     #Button for apply the checkboxes
     boton_aplicar=ft.FilledButton(text='Aplicar', on_click=aplicar)
 
-    page.add(
-        ft.Row(
+    #page.add(
+    row2 = ft.Row(
             [chbox_total,
             chbox_suma,
             chbox_media,
@@ -323,8 +323,18 @@ def main (page: ft.Page):
             boton_reset
             ]
             )
+        #)
+    #Vamos a agregar todos los controles para hace el control de caos
+    
+    
+    page.add(ft.Card(
+        ft.Column([
+        row1,
+        row2
+        ]),
+        shadow_color=ft.Colors.ON_SURFACE_VARIANT,
         )
-
+        )
     #Oracle button which predicts the actions
     boton_oraculo = ft.FilledButton(text='Oráculo', on_click = oraculo)
 
