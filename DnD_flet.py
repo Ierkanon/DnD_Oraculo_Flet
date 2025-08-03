@@ -124,8 +124,7 @@ def main (page: ft.Page):
         pass
 
     def list_save(e):
-        data_to_save = []
-        pass 
+        pass
 
     #Minus function
     def minus_click(e, data):
